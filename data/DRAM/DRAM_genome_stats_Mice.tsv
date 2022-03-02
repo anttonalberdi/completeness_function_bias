@@ -1,0 +1,588 @@
+genome	number of scaffolds	taxonomy	completeness score	contamination score	5S rRNA	16S rRNA	23S rRNA	tRNA count	assembly quality
+C04M3_Longread_bin.1	4	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp009775535	93.77	0.0	4 present	4 present	4 present	47	med
+C04M3_Longread_bin.11	2	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Akkermansia;s__Akkermansia muciniphila	97.95	0.68	3 present	3 present	3 present	53	med
+C04M3_Longread_bin.12	3	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	97.54	0.377	4 present	4 present	4 present	59	med
+C04M3_Longread_bin.13	5	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	82.24	0.671	2 present	2 present	2 present	44	med
+C04M3_Longread_bin.14	8	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__	97.58	2.586		5 present	5 present	81	med
+C04M3_Longread_bin.15	1	d__Bacteria;p__Firmicutes;c__Bacilli;o__Erysipelotrichales;f__Erysipelatoclostridiaceae;g__Erysipelatoclostridium;s__Erysipelatoclostridium cocleatum	100.0	0.0	5 present	5 present	5 present	60	med
+C04M3_Longread_bin.16	1	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__Alistipes sp002428825	99.03	0.0	2 present	2 present	2 present	43	med
+C04M3_Longread_bin.17	6	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Schaedlerella;s__Schaedlerella arabinosiphila	93.13	1.773		3 present	3 present	53	med
+C04M3_Longread_bin.18	1	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__UBA11940;s__UBA11940 sp003979335	95.16	0.0	2 present	C04M3_Longread_bin.18_contig_765 (1578485, 1579977)	2 present	65	med
+C04M3_Longread_bin.19	5	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	98.73	1.424	5 present	5 present	5 present	65	med
+C04M3_Longread_bin.2	11	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA7182;s__UBA7182 sp009774145	99.36	2.056	4 present	4 present	4 present	68	med
+C04M3_Longread_bin.21	5	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2;s__14-2 sp000403315	90.56	3.065	4 present	4 present	4 present	55	med
+C04M3_Longread_bin.22	7	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	1.132	5 present	5 present	5 present	56	med
+C04M3_Longread_bin.23	6	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	98.16	3.065		4 present	4 present	76	med
+C04M3_Longread_bin.24	2	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	0.88	4 present	4 present	4 present	55	med
+C04M3_Longread_bin.25	1	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__TANB77;f__CAG-508;g__UBA7001;s__	78.23	2.46	2 present	2 present	2 present	41	med
+C04M3_Longread_bin.26	6	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp002491305	98.67	0.377	4 present	4 present	4 present	50	med
+C04M3_Longread_bin.27	10	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__CAG-485 sp002362485	96.85	0.754	4 present	4 present	4 present	51	med
+C04M3_Longread_bin.28	7	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp000403215	97.58	3.448		5 present	5 present	76	med
+C04M3_Longread_bin.29	2	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerosacchariphilus;s__Anaerosacchariphilus sp011959465	99.36	1.265		4 present	4 present	64	med
+C04M3_Longread_bin.3	8	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp000403335	98.16	2.485		5 present	5 present	62	med
+C04M3_Longread_bin.30	5	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__	98.27	1.915		4 present	4 present	57	med
+C04M3_Longread_bin.31	6	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	100.0	5.085		4 present	4 present	63	med
+C04M3_Longread_bin.32	7	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp001689485	99.05	0.377	4 present	4 present	4 present	58	med
+C04M3_Longread_bin.33	6	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95;s__CAG-95 sp009911035	97.7	1.724	2 present	4 present	4 present	50	med
+C04M3_Longread_bin.34	3	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Paramuribaculum;s__	99.43	0.377	4 present	4 present	4 present	51	med
+C04M3_Longread_bin.35	3	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3402;s__	98.73	0.632		5 present	5 present	67	med
+C04M3_Longread_bin.36	13	d__Bacteria;p__Firmicutes;c__Bacilli;o__Acholeplasmatales;f__Anaeroplasmataceae;g__UMGS268;s__	98.66	2.888	3 present	3 present	3 present	50	med
+C04M3_Longread_bin.37	5	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__Eubacterium_J sp009774535	97.01	1.532		4 present	4 present	52	med
+C04M3_Longread_bin.38	2	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UMGS1370;s__	99.36	0.0		4 present	4 present	58	med
+C04M3_Longread_bin.4	6	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__Duncaniella muris	99.43	0.377	4 present	4 present	4 present	51	med
+C04M3_Longread_bin.5	3	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Muribaculum;s__Muribaculum sp002492595	97.92	0.0	4 present	4 present	4 present	48	med
+C04M3_Longread_bin.6	4	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp001689685	94.82	8.62	4 present	4 present	4 present	55	med
+C04M3_Longread_bin.7	7	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__	98.16	2.274		4 present	4 present	52	med
+C04M3_Longread_bin.8	4	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter;s__	93.91	0.335	2 present	2 present	2 present	55	med
+C04M3_Longread_bin.9	7	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__CAG-485 sp009775355	97.23	0.377	4 present	4 present	4 present	52	med
+C04M3_contig_666	1	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__TANB77;f__CAG-508;g__UBA7001;s__	78.23	2.46	2 present	2 present	2 present	41	med
+C04M3_contig_765	1	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__UBA11940;s__UBA11940 sp003979335	95.16	0.0	2 present	C04M3_contig_765_contig_765 (1578485, 1579977)	2 present	65	med
+C04M3_contig_791	1	C04M3_contig_791	0.0	0.0				2	low
+C04M3_subsampled_20Gb_Hybrid_bin.1	132	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter;s__Dysosmobacter sp000403435	93.46	9.53				39	med
+C04M3_subsampled_20Gb_Hybrid_bin.10	356	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	89.68	5.446		C04M3_subsampled_20Gb_Hybrid_bin.10_NODE_8046_length_9832_cov_12.467276 (5609, 7129)	C04M3_subsampled_20Gb_Hybrid_bin.10_NODE_8046_length_9832_cov_12.467276 (7848, 9831)	48	med
+C04M3_subsampled_20Gb_Hybrid_bin.11	64	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__;s__	94.35	0.026	2 present	C04M3_subsampled_20Gb_Hybrid_bin.11_NODE_325_length_162804_cov_2.908767 (159228, 160740)	C04M3_subsampled_20Gb_Hybrid_bin.11_NODE_325_length_162804_cov_2.908767 (161387, 162803)	55	med
+C04M3_subsampled_20Gb_Hybrid_bin.12	11	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Muribaculum;s__Muribaculum sp002492595	99.43	0.377	2 present	C04M3_subsampled_20Gb_Hybrid_bin.12_NODE_8_length_1323108_cov_61.917140 (565521, 566959)	2 present	48	med
+C04M3_subsampled_20Gb_Hybrid_bin.13	236	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	93.02	3.993				38	med
+C04M3_subsampled_20Gb_Hybrid_bin.14	345	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Kineothrix;s__Kineothrix sp011958945	79.77	1.221				24	med
+C04M3_subsampled_20Gb_Hybrid_bin.15	30	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UMGS1370;s__	99.36	0.0				52	med
+C04M3_subsampled_20Gb_Hybrid_bin.16	30	d__Bacteria;p__Firmicutes;c__Bacilli;o__Acholeplasmatales;f__Anaeroplasmataceae;g__UMGS268;s__	98.66	0.111	C04M3_subsampled_20Gb_Hybrid_bin.16_NODE_117_length_341001_cov_30.550217 (138157, 138259)	C04M3_subsampled_20Gb_Hybrid_bin.16_NODE_117_length_341001_cov_30.550217 (141517, 143013)	C04M3_subsampled_20Gb_Hybrid_bin.16_NODE_117_length_341001_cov_30.550217 (138320, 141151)	45	high
+C04M3_subsampled_20Gb_Hybrid_bin.17	33	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp002491305	98.49	0.503		2 present		47	med
+C04M3_subsampled_20Gb_Hybrid_bin.18	192	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerosacchariphilus;s__Anaerosacchariphilus sp011959465	99.36	1.265		3 present	4 present	69	med
+C04M3_subsampled_20Gb_Hybrid_bin.19	279	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	83.18	0.829	C04M3_subsampled_20Gb_Hybrid_bin.19_NODE_7783_length_10148_cov_0.900090 (9807, 9901)	C04M3_subsampled_20Gb_Hybrid_bin.19_NODE_935_length_67153_cov_1.166866 (64629, 66158)		44	med
+C04M3_subsampled_20Gb_Hybrid_bin.2	91	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp009774375	97.58	2.911				64	med
+C04M3_subsampled_20Gb_Hybrid_bin.20	36	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__UBA3700;g__RACS-045;s__	94.85	0.223	C04M3_subsampled_20Gb_Hybrid_bin.20_NODE_716_length_85744_cov_4.723837 (73966, 74077)	C04M3_subsampled_20Gb_Hybrid_bin.20_NODE_847_length_73885_cov_4.379801 (38841, 40348)	C04M3_subsampled_20Gb_Hybrid_bin.20_NODE_716_length_85744_cov_4.723837 (70969, 73860)	44	high
+C04M3_subsampled_20Gb_Hybrid_bin.21	364	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp009774395	82.71	1.312				23	med
+C04M3_subsampled_20Gb_Hybrid_bin.22	12	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	1.132				54	med
+C04M3_subsampled_20Gb_Hybrid_bin.23	80	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3402;s__	98.41	0.0		5 present	5 present	68	med
+C04M3_subsampled_20Gb_Hybrid_bin.24	112	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	90.13	1.275	2 present	C04M3_subsampled_20Gb_Hybrid_bin.24_NODE_1728_length_39395_cov_6.338177 (37061, 38585)		44	med
+C04M3_subsampled_20Gb_Hybrid_bin.25	20	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	98.73	1.424	3 present	3 present	5 present	63	med
+C04M3_subsampled_20Gb_Hybrid_bin.26	103	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__	98.16	1.699				49	med
+C04M3_subsampled_20Gb_Hybrid_bin.27	88	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Paramuribaculum;s__	98.15	2.452				44	med
+C04M3_subsampled_20Gb_Hybrid_bin.28	80	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__UBA3700;g__;s__	94.35	0.026	C04M3_subsampled_20Gb_Hybrid_bin.28_NODE_2152_length_31948_cov_3.367076 (25186, 25293)		C04M3_subsampled_20Gb_Hybrid_bin.28_NODE_2152_length_31948_cov_3.367076 (22189, 25092)	39	med
+C04M3_subsampled_20Gb_Hybrid_bin.29	91	d__Bacteria;p__Firmicutes;c__Bacilli;o__Erysipelotrichales;f__Erysipelatoclostridiaceae;g__;s__	100.0	0.943	C04M3_subsampled_20Gb_Hybrid_bin.29_NODE_15073_length_5209_cov_1.405479 (4707, 4777)	C04M3_subsampled_20Gb_Hybrid_bin.29_NODE_355_length_154237_cov_1.976748 (23757, 25277)	C04M3_subsampled_20Gb_Hybrid_bin.29_NODE_355_length_154237_cov_1.976748 (21649, 23545)	36	med
+C04M3_subsampled_20Gb_Hybrid_bin.3	59	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__Eubacterium_J sp009774535	97.58	1.532		4 present	3 present	54	med
+C04M3_subsampled_20Gb_Hybrid_bin.30	106	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp000403215	96.81	3.448				57	med
+C04M3_subsampled_20Gb_Hybrid_bin.31	274	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA9502;s__	92.3	2.325				47	med
+C04M3_subsampled_20Gb_Hybrid_bin.32	17	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	0.754	2 present	C04M3_subsampled_20Gb_Hybrid_bin.32_NODE_13_length_981097_cov_63.204964 (223078, 224065)	C04M3_subsampled_20Gb_Hybrid_bin.32_NODE_184_length_243795_cov_71.925095 (62488, 63473)	45	med
+C04M3_subsampled_20Gb_Hybrid_bin.33	35	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp009775535	97.92	0.0	4 present	4 present	4 present	55	med
+C04M3_subsampled_20Gb_Hybrid_bin.34	18	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	97.54	0.377	4 present	4 present	4 present	59	med
+C04M3_subsampled_20Gb_Hybrid_bin.35	79	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	96.64	1.342	C04M3_subsampled_20Gb_Hybrid_bin.35_NODE_932_length_67500_cov_3.156229 (1, 77)			27	med
+C04M3_subsampled_20Gb_Hybrid_bin.36	324	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3402;s__	90.18	7.436				37	med
+C04M3_subsampled_20Gb_Hybrid_bin.37	5	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	0.88	2 present	2 present	2 present	53	med
+C04M3_subsampled_20Gb_Hybrid_bin.38	52	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	96.53	1.915				49	med
+C04M3_subsampled_20Gb_Hybrid_bin.39	272	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2;s__14-2 sp000403845	84.75	3.898		C04M3_subsampled_20Gb_Hybrid_bin.39_NODE_10243_length_7801_cov_1.651779 (5687, 7218)		34	med
+C04M3_subsampled_20Gb_Hybrid_bin.4	142	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	88.36	2.059			2 present	41	med
+C04M3_subsampled_20Gb_Hybrid_bin.40	224	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__;s__	88.75	0.559	C04M3_subsampled_20Gb_Hybrid_bin.40_NODE_26225_length_2505_cov_3.409809 (2326, 2434)	C04M3_subsampled_20Gb_Hybrid_bin.40_NODE_1817_length_37461_cov_3.623093 (35129, 36655)		36	med
+C04M3_subsampled_20Gb_Hybrid_bin.41	196	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__	92.89	1.455				44	med
+C04M3_subsampled_20Gb_Hybrid_bin.42	47	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Schaedlerella;s__Schaedlerella arabinosiphila	94.73	1.773		2 present		53	med
+C04M3_subsampled_20Gb_Hybrid_bin.43	2	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Akkermansia;s__Akkermansia muciniphila	97.95	0.68	3 present	3 present	3 present	53	med
+C04M3_subsampled_20Gb_Hybrid_bin.44	46	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp000403335	97.58	2.485		5 present	4 present	60	med
+C04M3_subsampled_20Gb_Hybrid_bin.45	25	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp001689485	99.05	0.377	4 present	3 present	4 present	54	med
+C04M3_subsampled_20Gb_Hybrid_bin.46	222	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__ASTD01;s__	93.23	4.405		C04M3_subsampled_20Gb_Hybrid_bin.46_NODE_1592_length_42147_cov_5.254043 (578, 2104)		53	med
+C04M3_subsampled_20Gb_Hybrid_bin.47	104	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerosacchariphilus;s__	94.5	0.158	2 present	2 present		34	med
+C04M3_subsampled_20Gb_Hybrid_bin.48	22	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95;s__CAG-95 sp009911035	97.7	1.724	C04M3_subsampled_20Gb_Hybrid_bin.48_NODE_235_length_205864_cov_128.014288 (369, 463)	C04M3_subsampled_20Gb_Hybrid_bin.48_NODE_235_length_205864_cov_128.014288 (607, 2140)		47	med
+C04M3_subsampled_20Gb_Hybrid_bin.49	21	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__UBA11940;s__UBA11940 sp013316055	95.29	0.099	2 present		C04M3_subsampled_20Gb_Hybrid_bin.49_NODE_883_length_70652_cov_4.356966 (12, 1310)	38	med
+C04M3_subsampled_20Gb_Hybrid_bin.5	39	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	94.13	1.34		3 present	3 present	55	med
+C04M3_subsampled_20Gb_Hybrid_bin.50	306	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter;s__	84.45	1.062				30	med
+C04M3_subsampled_20Gb_Hybrid_bin.51	6	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__TANB77;f__CAG-508;g__UBA7001;s__	78.23	8.836	2 present	4 present	2 present	42	med
+C04M3_subsampled_20Gb_Hybrid_bin.52	8	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Paramuribaculum;s__	99.43	0.377	4 present	4 present	4 present	51	med
+C04M3_subsampled_20Gb_Hybrid_bin.53	74	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	97.65	3.691	2 present			43	med
+C04M3_subsampled_20Gb_Hybrid_bin.54	163	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UBA1405;s__	95.74	3.243	3 present	2 present	2 present	52	med
+C04M3_subsampled_20Gb_Hybrid_bin.55	175	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__TANB77;f__CAG-508;g__HGM13634;s__	71.42	1.342	C04M3_subsampled_20Gb_Hybrid_bin.55_NODE_28184_length_2230_cov_1.500235 (108, 216)	C04M3_subsampled_20Gb_Hybrid_bin.55_NODE_4292_length_17239_cov_1.177830 (1434, 2948)	C04M3_subsampled_20Gb_Hybrid_bin.55_NODE_4292_length_17239_cov_1.177830 (1, 850)	35	med
+C04M3_subsampled_20Gb_Hybrid_bin.56	486	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA9502;s__	75.16	2.341				26	med
+C04M3_subsampled_20Gb_Hybrid_bin.57	111	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter;s__	98.62	1.866	C04M3_subsampled_20Gb_Hybrid_bin.57_NODE_1024_length_61413_cov_7.845435 (61158, 61264)	C04M3_subsampled_20Gb_Hybrid_bin.57_NODE_3740_length_19349_cov_9.565403 (18420, 19349)		45	med
+C04M3_subsampled_20Gb_Hybrid_bin.58	64	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2;s__14-2 sp000403315	98.27	3.065	4 present	4 present	5 present	57	med
+C04M3_subsampled_20Gb_Hybrid_bin.59	76	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__CAG-552;g__;s__	92.22	0.699		C04M3_subsampled_20Gb_Hybrid_bin.59_NODE_2657_length_26441_cov_1.426012 (12375, 13885)		38	med
+C04M3_subsampled_20Gb_Hybrid_bin.6	327	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__ASTD01;s__	82.82	1.871				46	med
+C04M3_subsampled_20Gb_Hybrid_bin.60	29	d__Bacteria;p__Firmicutes_B;c__Dehalobacteriia;o__UBA4068;f__UBA5755;g__;s__	88.43	1.105	2 present	C04M3_subsampled_20Gb_Hybrid_bin.60_NODE_42_length_554308_cov_3.903369 (550172, 551753)	C04M3_subsampled_20Gb_Hybrid_bin.60_NODE_42_length_554308_cov_3.903369 (552304, 554308)	46	med
+C04M3_subsampled_20Gb_Hybrid_bin.61	171	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Marseille-P3106;s__	90.92	1.342		C04M3_subsampled_20Gb_Hybrid_bin.61_NODE_4177_length_17687_cov_5.565101 (2262, 3788)	C04M3_subsampled_20Gb_Hybrid_bin.61_NODE_4177_length_17687_cov_5.565101 (4, 1407)	34	med
+C04M3_subsampled_20Gb_Hybrid_bin.62	499	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter;s__	70.18	1.686				17	med
+C04M3_subsampled_20Gb_Hybrid_bin.63	274	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UBA9475;s__	83.5	4.026				32	med
+C04M3_subsampled_20Gb_Hybrid_bin.64	36	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__	98.27	1.34		3 present	3 present	56	med
+C04M3_subsampled_20Gb_Hybrid_bin.65	66	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Parasutterella;s__Parasutterella excrementihominis	97.99	0.0	3 present	3 present	C04M3_subsampled_20Gb_Hybrid_bin.65_NODE_599_length_100510_cov_3.241408 (37326, 40207)	61	med
+C04M3_subsampled_20Gb_Hybrid_bin.66	40	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__Duncaniella muris	99.43	0.754	3 present	3 present	3 present	56	med
+C04M3_subsampled_20Gb_Hybrid_bin.67	268	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3402;s__	93.33	4.45				48	med
+C04M3_subsampled_20Gb_Hybrid_bin.68	275	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__UMGS1872 sp014237695	87.07	2.013				24	med
+C04M3_subsampled_20Gb_Hybrid_bin.69	213	d__Bacteria;p__Actinobacteriota;c__Coriobacteriia;o__Coriobacteriales;f__Eggerthellaceae;g__Adlercreutzia;s__Adlercreutzia muris	92.05	0.537	C04M3_subsampled_20Gb_Hybrid_bin.69_NODE_3186_length_22447_cov_1.981833 (6231, 6323)	C04M3_subsampled_20Gb_Hybrid_bin.69_NODE_3186_length_22447_cov_1.981833 (1308, 2813)	C04M3_subsampled_20Gb_Hybrid_bin.69_NODE_3186_length_22447_cov_1.981833 (3130, 6082)	43	high
+C04M3_subsampled_20Gb_Hybrid_bin.7	143	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__ASTD01;s__	93.41	4.107				45	med
+C04M3_subsampled_20Gb_Hybrid_bin.70	27	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	93.83	0.377	C04M3_subsampled_20Gb_Hybrid_bin.70_NODE_199_length_229605_cov_5.490353 (196, 292)	C04M3_subsampled_20Gb_Hybrid_bin.70_NODE_365_length_152373_cov_4.663771 (149248, 150779)	C04M3_subsampled_20Gb_Hybrid_bin.70_NODE_365_length_152373_cov_4.663771 (151197, 152372)	47	high
+C04M3_subsampled_20Gb_Hybrid_bin.71	221	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Anaerotruncus;s__Anaerotruncus sp000403395	92.78	0.0	3 present		C04M3_subsampled_20Gb_Hybrid_bin.71_NODE_4879_length_15496_cov_6.589271 (2, 2409)	39	med
+C04M3_subsampled_20Gb_Hybrid_bin.72	66	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__TF01-11;s__	97.98	2.725		4 present	4 present	49	med
+C04M3_subsampled_20Gb_Hybrid_bin.73	75	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__CAG-485 sp002362485	95.72	0.754				44	med
+C04M3_subsampled_20Gb_Hybrid_bin.74	23	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp001689685	98.42	0.0	3 present	3 present	3 present	48	med
+C04M3_subsampled_20Gb_Hybrid_bin.75	83	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA7182;s__UBA7182 sp009774145	99.36	1.265	2 present	2 present	2 present	54	med
+C04M3_subsampled_20Gb_Hybrid_bin.76	365	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UMGS1370;s__UMGS1370 sp009774615	89.95	3.059				33	med
+C04M3_subsampled_20Gb_Hybrid_bin.77	10	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__UBA3700;g__RACS-045;s__	94.85	0.223	2 present	2 present	2 present	45	med
+C04M3_subsampled_20Gb_Hybrid_bin.78	96	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD42-69;s__1XD42-69 sp011959925	94.1	1.086				41	med
+C04M3_subsampled_20Gb_Hybrid_bin.79	65	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__	97.01	1.42	C04M3_subsampled_20Gb_Hybrid_bin.79_NODE_5348_length_14205_cov_3.447044 (13831, 13933)			48	med
+C04M3_subsampled_20Gb_Hybrid_bin.8	31	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__	93.68	2.011				50	med
+C04M3_subsampled_20Gb_Hybrid_bin.80	246	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA9502;s__	92.39	3.272		C04M3_subsampled_20Gb_Hybrid_bin.80_NODE_1965_length_34665_cov_7.097900 (32699, 34227)		47	med
+C04M3_subsampled_20Gb_Hybrid_bin.81	44	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	98.41	1.476		4 present	4 present	59	med
+C04M3_subsampled_20Gb_Hybrid_bin.82	48	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__CAG-485 sp009775355	96.1	0.88	2 present	3 present	2 present	56	med
+C04M3_subsampled_20Gb_Hybrid_bin.83	236	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__	94.52	2.107				32	med
+C04M3_subsampled_20Gb_Hybrid_bin.84	34	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	99.42	4.51		3 present	C04M3_subsampled_20Gb_Hybrid_bin.84_NODE_176_length_252021_cov_60.701499 (201337, 204232)	54	med
+C04M3_subsampled_20Gb_Hybrid_bin.85	170	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	92.7	2.047				42	med
+C04M3_subsampled_20Gb_Hybrid_bin.86	333	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA7182;s__	77.35	2.373				29	med
+C04M3_subsampled_20Gb_Hybrid_bin.87	4	d__Bacteria;p__Firmicutes;c__Bacilli;o__Erysipelotrichales;f__Erysipelatoclostridiaceae;g__Erysipelatoclostridium;s__Erysipelatoclostridium cocleatum	100.0	0.0	3 present	3 present	3 present	60	med
+C04M3_subsampled_20Gb_Hybrid_bin.88	1	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__Alistipes sp002428825	99.03	0.0	2 present	2 present	2 present	43	med
+C04M3_subsampled_20Gb_Hybrid_bin.89	3	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__UBA11940;s__UBA11940 sp003979335	95.16	0.0	2 present	C04M3_subsampled_20Gb_Hybrid_bin.89_NODE_5_length_1727946_cov_64.211626 (991373, 992865)	2 present	66	med
+C04M3_subsampled_20Gb_Hybrid_bin.9	38	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Kineothrix;s__	98.18	0.0		4 present	4 present	54	med
+C04M3_subsampled_20Gb_Hybrid_bin.90	316	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter;s__	70.29	7.088	C04M3_subsampled_20Gb_Hybrid_bin.90_NODE_10477_length_7636_cov_1.454956 (90, 197)			25	med
+C04M3_subsampled_20Gb_bin.1	58	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	93.83	0.377	C04M3_subsampled_20Gb_bin.1_NODE_1009_length_54602_cov_4.735684 (196, 292)			45	med
+C04M3_subsampled_20Gb_bin.10	322	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	90.93	3.02	C04M3_subsampled_20Gb_bin.10_NODE_767_length_66352_cov_15.895205 (66239, 66345)			41	med
+C04M3_subsampled_20Gb_bin.11	65	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__UBA3700;g__RACS-045;s__	94.85	0.223		C04M3_subsampled_20Gb_bin.11_NODE_1733_length_34906_cov_4.781481 (33355, 34862)		44	med
+C04M3_subsampled_20Gb_bin.12	31	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	0.754				46	med
+C04M3_subsampled_20Gb_bin.13	56	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp009775535	96.79	0.0				41	med
+C04M3_subsampled_20Gb_bin.14	472	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__UMGS1872 sp014237695	80.31	2.969				21	med
+C04M3_subsampled_20Gb_bin.15	42	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.05	0.754				45	med
+C04M3_subsampled_20Gb_bin.16	204	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__;s__	95.16	0.026	2 present			55	med
+C04M3_subsampled_20Gb_bin.17	56	d__Bacteria;p__Firmicutes;c__Bacilli;o__Acholeplasmatales;f__Anaeroplasmataceae;g__UMGS268;s__	98.66	0.111	C04M3_subsampled_20Gb_bin.17_NODE_1534_length_38957_cov_27.155077 (38876, 38956)			40	med
+C04M3_subsampled_20Gb_bin.18	216	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__CAG-485 sp009775355	95.72	0.88				49	med
+C04M3_subsampled_20Gb_bin.19	59	d__Bacteria;p__Firmicutes_B;c__Dehalobacteriia;o__UBA4068;f__UBA5755;g__;s__	88.43	1.105	2 present			42	med
+C04M3_subsampled_20Gb_bin.2	561	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__	83.64	2.428				37	med
+C04M3_subsampled_20Gb_bin.20	147	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp009774375	96.8	1.508				54	med
+C04M3_subsampled_20Gb_bin.21	494	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Clostridium_Q;s__Clostridium_Q sp009911305	72.87	4.804				45	med
+C04M3_subsampled_20Gb_bin.22	127	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	96.43	2.49			C04M3_subsampled_20Gb_bin.22_NODE_289_length_114331_cov_9.449655 (2, 1124)	50	med
+C04M3_subsampled_20Gb_bin.23	150	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2;s__14-2 sp000403315	98.27	3.256		C04M3_subsampled_20Gb_bin.23_NODE_87_length_182845_cov_19.758118 (182429, 182845)		52	med
+C04M3_subsampled_20Gb_bin.24	169	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__	97.58	2.274				49	med
+C04M3_subsampled_20Gb_bin.25	163	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA7182;s__UBA7182 sp009774145	98.1	1.265			C04M3_subsampled_20Gb_bin.25_NODE_3269_length_18612_cov_17.452277 (1, 1106)	58	med
+C04M3_subsampled_20Gb_bin.26	103	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__	95.28	2.586				50	med
+C04M3_subsampled_20Gb_bin.27	711	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3402;s__	81.64	2.867				38	med
+C04M3_subsampled_20Gb_bin.28	198	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3402;s__	97.78	0.21				60	med
+C04M3_subsampled_20Gb_bin.29	135	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__Duncaniella muris	99.05	2.641				57	med
+C04M3_subsampled_20Gb_bin.3	152	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__CAG-485 sp002362485	97.21	1.132				46	med
+C04M3_subsampled_20Gb_bin.30	649	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA9502;s__	83.98	0.502				24	med
+C04M3_subsampled_20Gb_bin.31	107	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp000403335	98.16	2.485				52	med
+C04M3_subsampled_20Gb_bin.32	59	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp001689485	98.67	0.377	C04M3_subsampled_20Gb_bin.32_NODE_506_length_87433_cov_46.930772 (331, 423)			46	med
+C04M3_subsampled_20Gb_bin.33	19	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__TANB77;f__CAG-508;g__UBA7001;s__	78.23	2.46				40	med
+C04M3_subsampled_20Gb_bin.34	36	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.04	0.754				49	med
+C04M3_subsampled_20Gb_bin.35	49	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__UBA11940;s__UBA11940 sp013316055	95.29	0.099	2 present		C04M3_subsampled_20Gb_bin.35_NODE_706_length_70956_cov_4.347305 (12, 1310)	38	med
+C04M3_subsampled_20Gb_bin.36	61	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp001689685	97.67	0.0				40	med
+C04M3_subsampled_20Gb_bin.37	305	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Parasutterella;s__Parasutterella excrementihominis	98.73	0.0	3 present	C04M3_subsampled_20Gb_bin.37_NODE_12217_length_5070_cov_13.556427 (69, 1605)	C04M3_subsampled_20Gb_bin.37_NODE_12217_length_5070_cov_13.556427 (1958, 4839)	56	med
+C04M3_subsampled_20Gb_bin.38	570	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	70.09	2.11				30	med
+C04M3_subsampled_20Gb_bin.39	431	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UBA1405;s__	87.8	1.364	3 present			43	med
+C04M3_subsampled_20Gb_bin.4	76	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	98.41	1.476				55	med
+C04M3_subsampled_20Gb_bin.40	211	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerosacchariphilus;s__	95.36	0.158				47	med
+C04M3_subsampled_20Gb_bin.41	41	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Muribaculum;s__Muribaculum sp002492595	99.43	0.377				48	med
+C04M3_subsampled_20Gb_bin.42	105	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	98.85	3.744		C04M3_subsampled_20Gb_bin.42_NODE_785_length_64854_cov_38.980681 (2, 481)		45	med
+C04M3_subsampled_20Gb_bin.43	109	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	99.4	2.49				49	med
+C04M3_subsampled_20Gb_bin.44	88	d__Bacteria;p__Firmicutes;c__Bacilli;o__Erysipelotrichales;f__Erysipelatoclostridiaceae;g__Erysipelatoclostridium;s__Erysipelatoclostridium cocleatum	100.0	0.0	C04M3_subsampled_20Gb_bin.44_NODE_661_length_73491_cov_8.267005 (2, 71)			52	med
+C04M3_subsampled_20Gb_bin.45	593	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Anaerotruncus;s__Anaerotruncus sp000403395	76.9	0.0	3 present	C04M3_subsampled_20Gb_bin.45_NODE_13465_length_4634_cov_3.022051 (3690, 4634)	C04M3_subsampled_20Gb_bin.45_NODE_7672_length_7825_cov_2.854129 (3, 917)	26	med
+C04M3_subsampled_20Gb_bin.46	41	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__UBA3700;g__RACS-045;s__	94.85	0.223				45	med
+C04M3_subsampled_20Gb_bin.47	157	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__TF01-11;s__	97.98	2.054				47	med
+C04M3_subsampled_20Gb_bin.48	353	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter;s__Dysosmobacter sp000403435	94.51	9.749				37	med
+C04M3_subsampled_20Gb_bin.49	832	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter;s__	75.6	6.431	C04M3_subsampled_20Gb_bin.49_NODE_25723_length_2579_cov_1.320565 (90, 197)			26	med
+C04M3_subsampled_20Gb_bin.5	633	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA9502;s__	87.5	1.455				35	med
+C04M3_subsampled_20Gb_bin.50	73	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	97.54	0.377		C04M3_subsampled_20Gb_bin.50_NODE_161_length_148511_cov_21.638176 (1, 954)		52	med
+C04M3_subsampled_20Gb_bin.51	7	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__UBA11940;s__UBA11940 sp003979335	95.16	0.0	2 present	C04M3_subsampled_20Gb_bin.51_NODE_7_length_455920_cov_71.413423 (453755, 455247)	C04M3_subsampled_20Gb_bin.51_NODE_7_length_455920_cov_71.413423 (1, 1974)	65	med
+C04M3_subsampled_20Gb_bin.52	193	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	95.97	1.342	C04M3_subsampled_20Gb_bin.52_NODE_750_length_67237_cov_3.168206 (1, 77)			31	med
+C04M3_subsampled_20Gb_bin.53	105	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp002491305	98.49	0.377	C04M3_subsampled_20Gb_bin.53_NODE_6438_length_9287_cov_46.248476 (80, 175)		C04M3_subsampled_20Gb_bin.53_NODE_38086_length_1798_cov_13.143614 (2, 1177)	41	med
+C04M3_subsampled_20Gb_bin.54	185	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter;s__	95.53	0.335	C04M3_subsampled_20Gb_bin.54_NODE_5583_length_10729_cov_7.535278 (150, 256)			31	med
+C04M3_subsampled_20Gb_bin.55	144	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__	95.84	0.566				42	med
+C04M3_subsampled_20Gb_bin.56	257	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD42-69;s__1XD42-69 sp011959925	90.09	0.574				39	med
+C04M3_subsampled_20Gb_bin.57	56	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__	98.27	1.34				51	med
+C04M3_subsampled_20Gb_bin.58	270	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__UBA3700;g__;s__	88.63	0.63				19	med
+C04M3_subsampled_20Gb_bin.59	279	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__ASTD01;s__	88.79	3.84				36	med
+C04M3_subsampled_20Gb_bin.6	562	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	85.05	3.826				33	med
+C04M3_subsampled_20Gb_bin.60	237	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__Eubacterium_J sp009774535	97.01	2.681				51	med
+C04M3_subsampled_20Gb_bin.61	346	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95;s__CAG-95 sp009911035	97.7	1.724		C04M3_subsampled_20Gb_bin.61_NODE_38694_length_1772_cov_181.001793 (36, 1547)	7 present	49	med
+C04M3_subsampled_20Gb_bin.62	284	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Paramuribaculum;s__	81.49	3.104				32	med
+C04M3_subsampled_20Gb_bin.63	450	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__;s__	95.09	2.09	C04M3_subsampled_20Gb_bin.63_NODE_26537_length_2505_cov_3.409809 (2326, 2434)			43	med
+C04M3_subsampled_20Gb_bin.64	139	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Schaedlerella;s__Schaedlerella arabinosiphila	94.73	1.773				50	med
+C04M3_subsampled_20Gb_bin.65	290	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	91.25	0.284	2 present			41	med
+C04M3_subsampled_20Gb_bin.66	691	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	81.94	4.203				28	med
+C04M3_subsampled_20Gb_bin.67	84	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UMGS1370;s__	99.36	0.632				50	med
+C04M3_subsampled_20Gb_bin.68	577	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__	91.67	2.94				27	med
+C04M3_subsampled_20Gb_bin.69	73	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Kineothrix;s__	98.18	0.0				49	med
+C04M3_subsampled_20Gb_bin.7	44	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Paramuribaculum;s__	99.43	0.377				47	med
+C04M3_subsampled_20Gb_bin.70	67	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	98.73	1.424				61	med
+C04M3_subsampled_20Gb_bin.71	485	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Marseille-P3106;s__	72.47	1.901				14	med
+C04M3_subsampled_20Gb_bin.72	513	d__Bacteria;p__Firmicutes;c__Bacilli;o__Erysipelotrichales;f__Erysipelatoclostridiaceae;g__;s__	80.53	0.606				32	med
+C04M3_subsampled_20Gb_bin.73	167	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp000403215	96.81	2.873				56	med
+C04M3_subsampled_20Gb_bin.74	10	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__Alistipes sp002428825	99.03	0.0				41	med
+C04M3_subsampled_20Gb_bin.75	28	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Akkermansia;s__Akkermansia muciniphila	97.95	0.68	C04M3_subsampled_20Gb_bin.75_NODE_10651_length_5756_cov_181.071416 (71, 178)	C04M3_subsampled_20Gb_bin.75_NODE_10651_length_5756_cov_181.071416 (3808, 5316)	C04M3_subsampled_20Gb_bin.75_NODE_10651_length_5756_cov_181.071416 (422, 3252)	49	high
+C04M3_subsampled_20Gb_bin.8	78	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerosacchariphilus;s__Anaerosacchariphilus sp011959465	96.83	0.632			C04M3_subsampled_20Gb_bin.8_NODE_2402_length_25176_cov_22.288950 (1, 990)	51	med
+C04M3_subsampled_20Gb_bin.9	351	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__CAG-552;g__;s__	76.76	1.048		C04M3_subsampled_20Gb_bin.9_NODE_44799_length_1551_cov_1.666667 (1079, 1551)		26	med
+C04M3_subsampled_40Gb_bin.1	49	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	94.21	0.377	C04M3_subsampled_40Gb_bin.1_NODE_1519_length_54624_cov_9.393783 (54311, 54407)			46	med
+C04M3_subsampled_40Gb_bin.10	203	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Clostridium_Q;s__Clostridium_Q sp009911305	92.99	0.0				46	med
+C04M3_subsampled_40Gb_bin.100	646	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	73.71	2.342				36	med
+C04M3_subsampled_40Gb_bin.101	294	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UBA9475;s__	86.07	1.342	C04M3_subsampled_40Gb_bin.101_NODE_24621_length_3035_cov_4.080041 (2945, 3032)			35	med
+C04M3_subsampled_40Gb_bin.102	100	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__ASTD01;s__	98.83	1.851				48	med
+C04M3_subsampled_40Gb_bin.103	167	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__ASTD01;s__ASTD01 sp000403455	97.07	1.364				56	med
+C04M3_subsampled_40Gb_bin.104	179	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3402;s__	93.11	1.793				42	med
+C04M3_subsampled_40Gb_bin.105	116	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3402;s__	99.34	0.69				55	med
+C04M3_subsampled_40Gb_bin.106	56	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	95.3	0.671	C04M3_subsampled_40Gb_bin.106_NODE_1116_length_67563_cov_6.313456 (113, 220)			32	med
+C04M3_subsampled_40Gb_bin.107	240	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__;s__	85.64	2.348	C04M3_subsampled_40Gb_bin.107_NODE_16573_length_4570_cov_6.218296 (6, 95)			32	med
+C04M3_subsampled_40Gb_bin.108	55	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp001689685	94.27	0.0				40	med
+C04M3_subsampled_40Gb_bin.11	109	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	99.4	2.49		C04M3_subsampled_40Gb_bin.11_NODE_2713_length_34235_cov_10.482658 (2, 405)	C04M3_subsampled_40Gb_bin.11_NODE_652_length_92390_cov_15.460923 (328, 3238)	50	med
+C04M3_subsampled_40Gb_bin.12	29	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__UBA11940;s__UBA11940 sp013316055	95.29	0.026	2 present			39	med
+C04M3_subsampled_40Gb_bin.13	32	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Paramuribaculum;s__	79.6	0.377				40	med
+C04M3_subsampled_40Gb_bin.14	27	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Akkermansia;s__Akkermansia muciniphila	97.95	0.68	C04M3_subsampled_40Gb_bin.14_NODE_13350_length_5756_cov_363.780626 (71, 178)	C04M3_subsampled_40Gb_bin.14_NODE_13350_length_5756_cov_363.780626 (3808, 5316)	C04M3_subsampled_40Gb_bin.14_NODE_13350_length_5756_cov_363.780626 (422, 3252)	49	high
+C04M3_subsampled_40Gb_bin.15	523	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD42-69;s__	83.29	1.207				20	med
+C04M3_subsampled_40Gb_bin.16	345	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__HGM13010;s__	82.18	1.23	C04M3_subsampled_40Gb_bin.16_NODE_7939_length_10654_cov_2.122596 (10280, 10390)			27	med
+C04M3_subsampled_40Gb_bin.17	85	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp009774375	95.28	1.508				46	med
+C04M3_subsampled_40Gb_bin.18	236	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__Eubacterium_J sp009774535	97.01	2.681				51	med
+C04M3_subsampled_40Gb_bin.19	214	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerosacchariphilus;s__Anaerosacchariphilus sp011959465	99.36	1.265				59	med
+C04M3_subsampled_40Gb_bin.2	179	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2;s__14-2 sp000403845	97.05	2.586				47	med
+C04M3_subsampled_40Gb_bin.20	141	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter;s__	96.18	0.335	C04M3_subsampled_40Gb_bin.20_NODE_4081_length_22721_cov_15.216205 (150, 256)			33	med
+C04M3_subsampled_40Gb_bin.21	141	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2;s__14-2 sp000403315	97.12	3.256		C04M3_subsampled_40Gb_bin.21_NODE_237_length_142030_cov_38.782740 (141614, 142030)		52	med
+C04M3_subsampled_40Gb_bin.22	125	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Anaerotruncus;s__Anaerotruncus sp000403395	94.63	0.671	4 present			39	med
+C04M3_subsampled_40Gb_bin.23	142	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	98.21	3.691				39	med
+C04M3_subsampled_40Gb_bin.24	45	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	0.754				47	med
+C04M3_subsampled_40Gb_bin.25	116	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerosacchariphilus;s__	98.93	0.0				47	med
+C04M3_subsampled_40Gb_bin.26	343	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__ASTD01;s__	86.29	4.385				31	med
+C04M3_subsampled_40Gb_bin.27	538	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Kineothrix;s__Kineothrix sp011958945	89.67	2.207				41	med
+C04M3_subsampled_40Gb_bin.28	133	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Schaedlerella;s__Schaedlerella arabinosiphila	94.73	1.189				47	med
+C04M3_subsampled_40Gb_bin.29	105	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	98.85	3.744				50	med
+C04M3_subsampled_40Gb_bin.3	75	d__Bacteria;p__Firmicutes;c__Bacilli;o__Erysipelotrichales;f__Erysipelatoclostridiaceae;g__;s__	100.0	0.0				46	med
+C04M3_subsampled_40Gb_bin.30	345	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter;s__	89.79	0.559				39	med
+C04M3_subsampled_40Gb_bin.31	161	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	97.12	2.318				45	med
+C04M3_subsampled_40Gb_bin.32	540	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2;s__14-2 sp009774455	79.67	2.394				25	med
+C04M3_subsampled_40Gb_bin.33	66	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	97.54	0.377				55	med
+C04M3_subsampled_40Gb_bin.34	230	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	96.75	1.006	2 present			46	med
+C04M3_subsampled_40Gb_bin.35	57	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__	96.85	0.377				52	med
+C04M3_subsampled_40Gb_bin.36	53	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Parasutterella;s__Parasutterella excrementihominis	100.0	0.0	2 present	C04M3_subsampled_40Gb_bin.36_NODE_45594_length_1663_cov_26.285806 (59, 1595)	C04M3_subsampled_40Gb_bin.36_NODE_22659_length_3306_cov_29.800437 (231, 3112)	59	med
+C04M3_subsampled_40Gb_bin.37	44	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__UBA3700;g__RACS-045;s__	94.85	0.223				44	med
+C04M3_subsampled_40Gb_bin.38	221	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	91.61	0.671	2 present			43	med
+C04M3_subsampled_40Gb_bin.39	107	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp002491305	97.92	0.377	C04M3_subsampled_40Gb_bin.39_NODE_11136_length_7116_cov_53.723529 (80, 175)			43	med
+C04M3_subsampled_40Gb_bin.4	166	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp000403215	97.01	2.873				51	med
+C04M3_subsampled_40Gb_bin.40	224	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter;s__	93.93	2.348	C04M3_subsampled_40Gb_bin.40_NODE_21455_length_3497_cov_2.999411 (4, 92)			35	med
+C04M3_subsampled_40Gb_bin.41	151	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter;s__Dysosmobacter sp000403435	93.84	3.02				27	med
+C04M3_subsampled_40Gb_bin.42	183	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA7182;s__UBA7182 sp009774145	97.46	1.265				52	med
+C04M3_subsampled_40Gb_bin.43	408	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2;s__	93.34	2.782				25	med
+C04M3_subsampled_40Gb_bin.44	870	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__UBA3282 sp009774655	71.39	4.362				23	med
+C04M3_subsampled_40Gb_bin.45	656	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	70.58	1.349				21	med
+C04M3_subsampled_40Gb_bin.46	245	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3402;s__	98.41	0.632				61	med
+C04M3_subsampled_40Gb_bin.47	580	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter;s__	79.52	1.067				16	med
+C04M3_subsampled_40Gb_bin.48	122	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__ASTD01;s__	95.16	0.974				52	med
+C04M3_subsampled_40Gb_bin.49	912	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01;s__	71.34	0.02	2 present			22	med
+C04M3_subsampled_40Gb_bin.5	455	d__Bacteria;p__Actinobacteriota;c__Coriobacteriia;o__Coriobacteriales;f__Eggerthellaceae;g__Adlercreutzia;s__Adlercreutzia muris	74.51	0.0	C04M3_subsampled_40Gb_bin.5_NODE_8315_length_10068_cov_6.191193 (9948, 10040)	C04M3_subsampled_40Gb_bin.5_NODE_8315_length_10068_cov_6.191193 (5025, 6530)	C04M3_subsampled_40Gb_bin.5_NODE_8315_length_10068_cov_6.191193 (6847, 9799)	40	med
+C04M3_subsampled_40Gb_bin.50	108	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UBA1405;s__	96.64	1.565	2 present			49	med
+C04M3_subsampled_40Gb_bin.51	223	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__ASTD01;s__	88.7	1.267				43	med
+C04M3_subsampled_40Gb_bin.52	206	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	97.58	3.639			C04M3_subsampled_40Gb_bin.52_NODE_27531_length_2721_cov_42.841724 (1583, 2720)	63	med
+C04M3_subsampled_40Gb_bin.53	654	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Anaerotignaceae;g__ASF356;s__	70.47	1.149				31	med
+C04M3_subsampled_40Gb_bin.54	56	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__Duncaniella muris	98.67	0.377				40	med
+C04M3_subsampled_40Gb_bin.55	60	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp001689485	98.67	0.377	C04M3_subsampled_40Gb_bin.55_NODE_730_length_87433_cov_93.533114 (87011, 87103)			45	med
+C04M3_subsampled_40Gb_bin.56	45	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	0.88				52	med
+C04M3_subsampled_40Gb_bin.57	435	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__UMGS1872 sp014237695	87.46	3.914	C04M3_subsampled_40Gb_bin.57_NODE_17704_length_4264_cov_10.326771 (4151, 4258)			26	med
+C04M3_subsampled_40Gb_bin.58	716	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Angelakisella;s__	70.08	2.544				33	med
+C04M3_subsampled_40Gb_bin.59	120	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp000403335	98.16	2.485				53	med
+C04M3_subsampled_40Gb_bin.6	335	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	91.27	1.194				37	med
+C04M3_subsampled_40Gb_bin.60	71	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UMGS1370;s__	98.73	0.0				51	med
+C04M3_subsampled_40Gb_bin.61	68	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Kineothrix;s__	97.03	0.0				48	med
+C04M3_subsampled_40Gb_bin.62	44	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Paramuribaculum;s__	99.43	0.377				47	med
+C04M3_subsampled_40Gb_bin.63	52	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	98.41	0.843				55	med
+C04M3_subsampled_40Gb_bin.64	850	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter;s__	75.23	5.727				37	med
+C04M3_subsampled_40Gb_bin.65	105	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__TF01-11;s__	97.98	1.159				48	med
+C04M3_subsampled_40Gb_bin.66	111	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__TANB77;f__CAG-508;g__HGM13634;s__	78.01	2.237		C04M3_subsampled_40Gb_bin.66_NODE_5732_length_15770_cov_3.159530 (2, 925)		29	med
+C04M3_subsampled_40Gb_bin.67	7	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__UBA11940;s__UBA11940 sp003979335	95.16	0.0	2 present	C04M3_subsampled_40Gb_bin.67_NODE_7_length_453853_cov_141.974980 (451688, 453180)		66	med
+C04M3_subsampled_40Gb_bin.68	130	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Marseille-P3106;s__	97.85	2.013	C04M3_subsampled_40Gb_bin.68_NODE_11500_length_6836_cov_2.777497 (6745, 6833)	C04M3_subsampled_40Gb_bin.68_NODE_7036_length_12386_cov_4.330024 (6, 836)		40	med
+C04M3_subsampled_40Gb_bin.69	72	d__Bacteria;p__Firmicutes;c__Bacilli;o__Erysipelotrichales;f__Erysipelatoclostridiaceae;g__Erysipelatoclostridium;s__Erysipelatoclostridium cocleatum	100.0	0.0	C04M3_subsampled_40Gb_bin.69_NODE_979_length_73491_cov_16.461930 (2, 71)			52	med
+C04M3_subsampled_40Gb_bin.7	216	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	86.61	0.0				35	med
+C04M3_subsampled_40Gb_bin.70	425	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp009774395	95.92	2.89				38	med
+C04M3_subsampled_40Gb_bin.71	841	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95;s__CAG-95 sp009917455	74.72	3.016		C04M3_subsampled_40Gb_bin.71_NODE_10048_length_7996_cov_2.595036 (1, 415)		28	med
+C04M3_subsampled_40Gb_bin.72	101	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__	97.12	1.724				44	med
+C04M3_subsampled_40Gb_bin.73	144	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95;s__CAG-95 sp009911035	97.7	1.724				45	med
+C04M3_subsampled_40Gb_bin.74	181	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA9502;s__	98.95	1.424				56	med
+C04M3_subsampled_40Gb_bin.75	123	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__	97.25	2.969				43	med
+C04M3_subsampled_40Gb_bin.76	7	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__Alistipes sp002428825	99.03	0.0				41	med
+C04M3_subsampled_40Gb_bin.77	278	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UMGS1370;s__UMGS1370 sp009774615	95.23	2.848				39	med
+C04M3_subsampled_40Gb_bin.78	33	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__UBA3700;g__RACS-045;s__	94.85	0.223	C04M3_subsampled_40Gb_bin.78_NODE_2134_length_42251_cov_12.734627 (41734, 41844)			45	med
+C04M3_subsampled_40Gb_bin.79	553	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA9502;s__	91.8	2.483				32	med
+C04M3_subsampled_40Gb_bin.8	93	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__	95.86	2.586		C04M3_subsampled_40Gb_bin.8_NODE_1464_length_55925_cov_47.808888 (3, 466)		52	med
+C04M3_subsampled_40Gb_bin.80	28	d__Bacteria;p__Firmicutes_B;c__Dehalobacteriia;o__UBA4068;f__UBA5755;g__;s__	88.43	1.105	2 present			44	med
+C04M3_subsampled_40Gb_bin.81	138	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA9502;s__	98.24	1.424				54	med
+C04M3_subsampled_40Gb_bin.82	264	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Clostridium_Q;s__	89.81	0.019				44	med
+C04M3_subsampled_40Gb_bin.83	161	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__	97.01	2.274				40	med
+C04M3_subsampled_40Gb_bin.84	173	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__CAG-485 sp002362485	97.23	0.754				47	med
+C04M3_subsampled_40Gb_bin.85	66	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	98.73	1.424				55	med
+C04M3_subsampled_40Gb_bin.86	39	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	0.754				51	med
+C04M3_subsampled_40Gb_bin.87	74	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD42-69;s__1XD42-69 sp011959925	95.41	0.483				37	med
+C04M3_subsampled_40Gb_bin.88	205	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__CAG-485 sp009775355	95.72	0.88			C04M3_subsampled_40Gb_bin.88_NODE_34985_length_2151_cov_392.426413 (1, 1933)	51	med
+C04M3_subsampled_40Gb_bin.89	40	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__UBA3700;g__;s__	94.75	0.0				39	med
+C04M3_subsampled_40Gb_bin.9	38	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__CAG-552;g__;s__	96.48	1.048	C04M3_subsampled_40Gb_bin.9_NODE_842_length_80601_cov_3.485007 (80101, 80210)	C04M3_subsampled_40Gb_bin.9_NODE_5780_length_15639_cov_3.284556 (15219, 15638)	C04M3_subsampled_40Gb_bin.9_NODE_842_length_80601_cov_3.485007 (76908, 79838)	45	high
+C04M3_subsampled_40Gb_bin.90	99	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp009775535	97.92	0.0				47	med
+C04M3_subsampled_40Gb_bin.91	120	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__TANB77;f__CAG-508;g__HGM13634;s__	73.64	1.342	C04M3_subsampled_40Gb_bin.91_NODE_3636_length_25719_cov_2.673302 (25460, 25568)			30	med
+C04M3_subsampled_40Gb_bin.92	11	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__TANB77;f__CAG-508;g__UBA7001;s__	78.23	2.46				39	med
+C04M3_subsampled_40Gb_bin.93	203	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	96.94	4.484		C04M3_subsampled_40Gb_bin.93_NODE_8107_length_10385_cov_7.066790 (3, 466)		45	med
+C04M3_subsampled_40Gb_bin.94	304	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA7182;s__	89.61	2.531				37	med
+C04M3_subsampled_40Gb_bin.95	44	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__;s__	96.37	0.026	2 present	C04M3_subsampled_40Gb_bin.95_NODE_6380_length_13928_cov_5.377106 (3, 806)		55	med
+C04M3_subsampled_40Gb_bin.96	89	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	96.59	2.16				45	med
+C04M3_subsampled_40Gb_bin.97	41	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Muribaculum;s__Muribaculum sp002492595	99.43	0.377				48	med
+C04M3_subsampled_40Gb_bin.98	54	d__Bacteria;p__Firmicutes;c__Bacilli;o__Acholeplasmatales;f__Anaeroplasmataceae;g__UMGS268;s__	98.66	0.111	C04M3_subsampled_40Gb_bin.98_NODE_2340_length_38957_cov_54.537933 (38876, 38956)			40	med
+C04M3_subsampled_40Gb_bin.99	621	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Acutalibacter;s__Acutalibacter muris	75.05	1.235				29	med
+C13F5_Longread_bin.1	7	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	97.31	0.0	2 present	2 present	2 present	50	med
+C13F5_Longread_bin.10	4	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	92.05	3.914	2 present	2 present	2 present	52	med
+C13F5_Longread_bin.11	4	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Paramuribaculum;s__	99.43	0.377	4 present	4 present	4 present	51	med
+C13F5_Longread_bin.12	5	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Schaedlerella;s__Schaedlerella arabinosiphila	92.09	7.602		4 present	4 present	63	med
+C13F5_Longread_bin.13	20	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__UBA11940;s__UBA11940 sp003979335	91.93	0.0	2 present	C13F5_Longread_bin.13_contig_61 (3989, 5481)	2 present	42	med
+C13F5_Longread_bin.14	5	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UMGS1370;s__	99.36	0.0		4 present	4 present	59	med
+C13F5_Longread_bin.15	11	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp002491305	98.67	0.377	4 present	4 present	4 present	51	med
+C13F5_Longread_bin.16	3	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Muribaculum;s__Muribaculum sp002492595	99.43	0.0	4 present	4 present	4 present	52	med
+C13F5_Longread_bin.17	5	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Paramuribaculum;s__	99.24	0.377	4 present	4 present	4 present	50	med
+C13F5_Longread_bin.18	4	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.05	1.509	4 present	4 present	4 present	52	med
+C13F5_Longread_bin.19	15	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__UBA11940;s__UBA11940 sp003979335	93.54	3.763	C13F5_Longread_bin.19_contig_60 (462330, 462439)		C13F5_Longread_bin.19_contig_60 (459214, 462103)	42	med
+C13F5_Longread_bin.2	5	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp009774395	98.16	1.724		5 present	5 present	57	med
+C13F5_Longread_bin.20	2	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2;s__14-2 sp009774455	99.42	0.957		4 present	4 present	55	med
+C13F5_Longread_bin.21	4	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp009775265	93.2	0.125	4 present	4 present	4 present	60	med
+C13F5_Longread_bin.22	4	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__Duncaniella muris	99.43	0.628	4 present	4 present	4 present	57	med
+C13F5_Longread_bin.24	25	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__UMGS1872 sp014237695	97.29	3.691	2 present	2 present	2 present	73	med
+C13F5_Longread_bin.25	2	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__UBA3700;g__RACS-045;s__	94.85	0.0	2 present	2 present	2 present	44	med
+C13F5_Longread_bin.26	5	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	0.754	5 present	5 present	5 present	59	med
+C13F5_Longread_bin.27	2	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__UBA11940;s__UBA11940 sp013316055	95.29	0.026	2 present	C13F5_Longread_bin.27_contig_19 (1353804, 1355296)	2 present	42	med
+C13F5_Longread_bin.28	1	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__Alistipes sp002428825	99.03	0.0	2 present	2 present	2 present	43	med
+C13F5_Longread_bin.29	7	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA9502;s__	83.54	0.632		C13F5_Longread_bin.29_contig_480 (565908, 567436)	C13F5_Longread_bin.29_contig_480 (562449, 565329)	40	med
+C13F5_Longread_bin.3	2	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	1.132	4 present	4 present	4 present	50	med
+C13F5_Longread_bin.30	5	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp009775535	94.52	0.0	4 present	4 present	4 present	52	med
+C13F5_Longread_bin.31	13	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp000403335	98.16	2.485		5 present	5 present	62	med
+C13F5_Longread_bin.32	1	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Akkermansia;s__Akkermansia muciniphila	97.95	0.68	3 present	3 present	3 present	54	med
+C13F5_Longread_bin.33	7	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp001689485	99.05	0.377	4 present	4 present	4 present	54	med
+C13F5_Longread_bin.34	2	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA7182;s__	97.97	2.215	4 present	4 present	4 present	62	med
+C13F5_Longread_bin.35	1	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	94.21	0.377	4 present	4 present	4 present	50	med
+C13F5_Longread_bin.36	36	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	92.89	5.363		3 present	3 present	72	med
+C13F5_Longread_bin.37	7	d__Bacteria;p__Firmicutes;c__Bacilli;o__Acholeplasmatales;f__Anaeroplasmataceae;g__UMGS268;s__	98.66	0.111	3 present	3 present	3 present	47	med
+C13F5_Longread_bin.38	5	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	99.4	2.49		4 present	4 present	55	med
+C13F5_Longread_bin.39	2	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95;s__CAG-95 sp009911035	97.7	1.724	2 present	4 present	4 present	50	med
+C13F5_Longread_bin.4	4	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3402;s__	98.73	0.632		5 present	5 present	67	med
+C13F5_Longread_bin.40	5	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp001689685	91.63	0.0	4 present	4 present	4 present	54	med
+C13F5_Longread_bin.5	13	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__CAG-485 sp009775355	89.87	0.377	4 present	4 present	4 present	47	med
+C13F5_Longread_bin.6	5	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	98.85	4.51		4 present	4 present	72	med
+C13F5_Longread_bin.7	5	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerosacchariphilus;s__Anaerosacchariphilus sp011959465	90.29	0.632		4 present	4 present	64	med
+C13F5_Longread_bin.8	5	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__	98.27	1.915		4 present	4 present	57	med
+C13F5_Longread_bin.9	5	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	0.88	4 present	4 present	4 present	55	med
+C13F5_contig_704	1	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Akkermansia;s__Akkermansia muciniphila	97.96	0.68	3 present	3 present	3 present	54	med
+C13F5_contig_923	1	C13F5_contig_923	0.0	0.0				0	low
+C13F5_contig_937	1	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	12.83	0.0	C13F5_contig_937_contig_937 (253108, 253194)	C13F5_contig_937_contig_937 (247947, 249477)	C13F5_contig_937_contig_937 (249985, 252876)	16	low
+C13F5_subsampled_20Gb_Hybrid_bin.1	23	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__	98.27	1.915		C13F5_subsampled_20Gb_Hybrid_bin.1_NODE_6_length_976690_cov_26.518956 (1, 418)	4 present	54	med
+C13F5_subsampled_20Gb_Hybrid_bin.10	320	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA9502;s__	91.03	0.0				44	med
+C13F5_subsampled_20Gb_Hybrid_bin.11	156	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Schaedlerella;s__Schaedlerella sp000403295	92.27	8.615				45	med
+C13F5_subsampled_20Gb_Hybrid_bin.12	34	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__CAG-917;g__CAG-475;s__	90.15	0.041	C13F5_subsampled_20Gb_Hybrid_bin.12_NODE_395_length_122821_cov_3.994981 (78263, 78372)	C13F5_subsampled_20Gb_Hybrid_bin.12_NODE_395_length_122821_cov_3.994981 (81793, 83303)	C13F5_subsampled_20Gb_Hybrid_bin.12_NODE_395_length_122821_cov_3.994981 (78489, 81421)	47	high
+C13F5_subsampled_20Gb_Hybrid_bin.13	185	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Anaerotignaceae;g__ASF356;s__	82.74	0.671	2 present	C13F5_subsampled_20Gb_Hybrid_bin.13_NODE_1356_length_47022_cov_1.505147 (2, 1239)	C13F5_subsampled_20Gb_Hybrid_bin.13_NODE_1356_length_47022_cov_1.505147 (1766, 4674)	41	med
+C13F5_subsampled_20Gb_Hybrid_bin.14	45	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter;s__	73.13	5.369	C13F5_subsampled_20Gb_Hybrid_bin.14_NODE_1186_length_52406_cov_5.479630 (51692, 51798)			29	med
+C13F5_subsampled_20Gb_Hybrid_bin.15	116	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__UBA3700;g__RACS-045;s__	92.2	0.727	C13F5_subsampled_20Gb_Hybrid_bin.15_NODE_5112_length_14314_cov_1.796272 (276, 386)			25	med
+C13F5_subsampled_20Gb_Hybrid_bin.16	37	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95;s__CAG-95 sp009911035	97.7	1.724	4 present	4 present	4 present	50	med
+C13F5_subsampled_20Gb_Hybrid_bin.17	9	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__UBA11940;s__UBA11940 sp013316055	95.29	0.026	2 present	C13F5_subsampled_20Gb_Hybrid_bin.17_NODE_3_length_1420201_cov_42.269391 (1341666, 1343158)	2 present	40	med
+C13F5_subsampled_20Gb_Hybrid_bin.18	83	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	95.07	2.125				36	med
+C13F5_subsampled_20Gb_Hybrid_bin.19	80	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	97.31	0.671	2 present		C13F5_subsampled_20Gb_Hybrid_bin.19_NODE_813_length_70901_cov_44.824737 (3, 1154)	42	med
+C13F5_subsampled_20Gb_Hybrid_bin.2	321	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Clostridium_Q;s__	96.54	2.109		C13F5_subsampled_20Gb_Hybrid_bin.2_NODE_762_length_73861_cov_9.590955 (26141, 27669)	C13F5_subsampled_20Gb_Hybrid_bin.2_NODE_762_length_73861_cov_9.590955 (28310, 31194)	49	med
+C13F5_subsampled_20Gb_Hybrid_bin.20	102	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA9502;s__	98.02	1.265		2 present	C13F5_subsampled_20Gb_Hybrid_bin.20_NODE_830_length_69408_cov_4.650060 (68551, 69408)	50	med
+C13F5_subsampled_20Gb_Hybrid_bin.21	13	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp001689485	96.6	0.377	4 present	4 present	4 present	55	med
+C13F5_subsampled_20Gb_Hybrid_bin.22	322	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD8-76;s__	91.62	2.879				32	med
+C13F5_subsampled_20Gb_Hybrid_bin.23	49	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	100.0	3.935		4 present	C13F5_subsampled_20Gb_Hybrid_bin.23_NODE_270_length_161488_cov_18.509750 (115349, 118244)	64	med
+C13F5_subsampled_20Gb_Hybrid_bin.24	314	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Acutalibacter;s__Acutalibacter muris	84.22	2.705	2 present	C13F5_subsampled_20Gb_Hybrid_bin.24_NODE_7193_length_10338_cov_1.830159 (7366, 8897)	C13F5_subsampled_20Gb_Hybrid_bin.24_NODE_7193_length_10338_cov_1.830159 (3951, 6778)	35	med
+C13F5_subsampled_20Gb_Hybrid_bin.25	66	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	99.4	3.639		2 present	4 present	53	med
+C13F5_subsampled_20Gb_Hybrid_bin.26	265	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA7182;s__UBA7182 sp009774145	97.36	4.746				43	med
+C13F5_subsampled_20Gb_Hybrid_bin.27	262	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2;s__14-2 sp000403315	87.1	1.812				28	med
+C13F5_subsampled_20Gb_Hybrid_bin.28	13	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__;s__	96.37	0.026	2 present	C13F5_subsampled_20Gb_Hybrid_bin.28_NODE_161_length_237337_cov_10.929897 (2, 781)	2 present	57	med
+C13F5_subsampled_20Gb_Hybrid_bin.29	15	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp002491305	97.92	0.377	2 present			39	med
+C13F5_subsampled_20Gb_Hybrid_bin.3	35	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__UBA3700;g__RACS-045;s__	94.85	0.223	C13F5_subsampled_20Gb_Hybrid_bin.3_NODE_451_length_112229_cov_7.210800 (5552, 5663)	C13F5_subsampled_20Gb_Hybrid_bin.3_NODE_1217_length_51398_cov_6.453888 (33624, 35131)	C13F5_subsampled_20Gb_Hybrid_bin.3_NODE_451_length_112229_cov_7.210800 (5769, 8659)	45	high
+C13F5_subsampled_20Gb_Hybrid_bin.30	20	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Paramuribaculum;s__	99.43	0.377				47	med
+C13F5_subsampled_20Gb_Hybrid_bin.31	213	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	97.7	2.369				37	med
+C13F5_subsampled_20Gb_Hybrid_bin.32	10	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	0.88	3 present	2 present	3 present	53	med
+C13F5_subsampled_20Gb_Hybrid_bin.33	81	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__UBA3282 sp003611805	93.21	1.504		4 present		49	med
+C13F5_subsampled_20Gb_Hybrid_bin.34	7	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	1.132				47	med
+C13F5_subsampled_20Gb_Hybrid_bin.35	80	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UMGS1370;s__	99.36	0.949	2 present	2 present	C13F5_subsampled_20Gb_Hybrid_bin.35_NODE_1247_length_50253_cov_8.760059 (41985, 44870)	52	med
+C13F5_subsampled_20Gb_Hybrid_bin.36	23	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__CAG-552;g__;s__	96.48	0.699		C13F5_subsampled_20Gb_Hybrid_bin.36_NODE_180_length_225711_cov_3.835558 (74310, 75820)		42	med
+C13F5_subsampled_20Gb_Hybrid_bin.37	38	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	94.29	0.0	C13F5_subsampled_20Gb_Hybrid_bin.37_NODE_1438_length_44942_cov_9.915929 (44654, 44760)	C13F5_subsampled_20Gb_Hybrid_bin.37_NODE_1428_length_45144_cov_16.980109 (42822, 44349)		37	med
+C13F5_subsampled_20Gb_Hybrid_bin.38	235	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerosacchariphilus;s__Anaerosacchariphilus sp009917555	80.74	0.632				21	med
+C13F5_subsampled_20Gb_Hybrid_bin.39	10	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Muribaculum;s__Muribaculum sp002492595	98.67	0.0				46	med
+C13F5_subsampled_20Gb_Hybrid_bin.4	47	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__CAG-485 sp009775355	96.66	0.377	4 present	4 present	4 present	50	med
+C13F5_subsampled_20Gb_Hybrid_bin.40	314	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__	93.18	2.909				38	med
+C13F5_subsampled_20Gb_Hybrid_bin.41	92	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Schaedlerella;s__Schaedlerella arabinosiphila	87.19	2.241		C13F5_subsampled_20Gb_Hybrid_bin.41_NODE_1294_length_48712_cov_13.197046 (25787, 27315)	2 present	45	med
+C13F5_subsampled_20Gb_Hybrid_bin.42	38	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA7182;s__	98.1	2.215				57	med
+C13F5_subsampled_20Gb_Hybrid_bin.43	220	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Marseille-P3106;s__	79.26	4.026				35	med
+C13F5_subsampled_20Gb_Hybrid_bin.44	203	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	90.88	6.896		3 present	3 present	52	med
+C13F5_subsampled_20Gb_Hybrid_bin.45	364	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Kineothrix;s__Kineothrix sp011958945	93.28	2.89				31	med
+C13F5_subsampled_20Gb_Hybrid_bin.46	9	d__Bacteria;p__Firmicutes;c__Bacilli;o__Acholeplasmatales;f__Anaeroplasmataceae;g__UMGS268;s__	98.66	0.111	3 present	3 present	3 present	47	med
+C13F5_subsampled_20Gb_Hybrid_bin.47	207	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__CAG-485 sp002362485	89.54	2.327				43	med
+C13F5_subsampled_20Gb_Hybrid_bin.48	14	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	0.754	3 present		2 present	55	med
+C13F5_subsampled_20Gb_Hybrid_bin.49	91	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3402;s__	98.73	0.0		C13F5_subsampled_20Gb_Hybrid_bin.49_NODE_1116_length_54959_cov_29.942982 (50921, 52449)	C13F5_subsampled_20Gb_Hybrid_bin.49_NODE_1116_length_54959_cov_29.942982 (53098, 54958)	62	med
+C13F5_subsampled_20Gb_Hybrid_bin.5	152	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__Eubacterium_J sp009774535	96.43	1.532		2 present	C13F5_subsampled_20Gb_Hybrid_bin.5_NODE_276_length_158776_cov_8.475185 (53657, 56527)	50	med
+C13F5_subsampled_20Gb_Hybrid_bin.50	183	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__;s__	92.1	2.013	2 present	2 present	2 present	48	med
+C13F5_subsampled_20Gb_Hybrid_bin.51	34	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp009775265	93.96	0.503				52	med
+C13F5_subsampled_20Gb_Hybrid_bin.52	209	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__TF01-11;s__	97.98	1.271		C13F5_subsampled_20Gb_Hybrid_bin.52_NODE_3604_length_19955_cov_10.180449 (2133, 3661)	C13F5_subsampled_20Gb_Hybrid_bin.52_NODE_3604_length_19955_cov_10.180449 (4357, 7265)	47	med
+C13F5_subsampled_20Gb_Hybrid_bin.53	70	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__UMGS1872 sp014237695	95.3	3.691	C13F5_subsampled_20Gb_Hybrid_bin.53_NODE_2113_length_32298_cov_32.728035 (32185, 32292)			37	med
+C13F5_subsampled_20Gb_Hybrid_bin.54	203	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3402;s__	97.9	3.691				54	med
+C13F5_subsampled_20Gb_Hybrid_bin.55	9	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__Duncaniella muris	99.43	1.509				55	med
+C13F5_subsampled_20Gb_Hybrid_bin.56	162	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	94.02	0.788	C13F5_subsampled_20Gb_Hybrid_bin.56_NODE_12414_length_5582_cov_1.995988 (257, 357)			44	med
+C13F5_subsampled_20Gb_Hybrid_bin.57	51	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp009775535	97.92	0.377	2 present	2 present		53	med
+C13F5_subsampled_20Gb_Hybrid_bin.58	99	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA9502;s__	99.36	0.632		C13F5_subsampled_20Gb_Hybrid_bin.58_NODE_6935_length_10697_cov_37.837705 (453, 1981)	C13F5_subsampled_20Gb_Hybrid_bin.58_NODE_539_length_99328_cov_23.792470 (67206, 68477)	54	med
+C13F5_subsampled_20Gb_Hybrid_bin.59	489	d__Bacteria;p__Actinobacteriota;c__Coriobacteriia;o__Coriobacteriales;f__Eggerthellaceae;g__Adlercreutzia;s__Adlercreutzia muris	91.07	7.553	C13F5_subsampled_20Gb_Hybrid_bin.59_NODE_4080_length_17819_cov_2.913149 (3587, 3679)	C13F5_subsampled_20Gb_Hybrid_bin.59_NODE_4080_length_17819_cov_2.913149 (7096, 8601)	C13F5_subsampled_20Gb_Hybrid_bin.59_NODE_4080_length_17819_cov_2.913149 (3828, 6780)	47	med
+C13F5_subsampled_20Gb_Hybrid_bin.6	273	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	82.19	1.713				26	med
+C13F5_subsampled_20Gb_Hybrid_bin.60	410	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	72.8	0.531				35	med
+C13F5_subsampled_20Gb_Hybrid_bin.61	287	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	81.03	0.285				31	med
+C13F5_subsampled_20Gb_Hybrid_bin.62	17	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Paramuribaculum;s__	99.24	0.377				47	med
+C13F5_subsampled_20Gb_Hybrid_bin.63	134	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__	95.28	2.394		2 present	C13F5_subsampled_20Gb_Hybrid_bin.63_NODE_164_length_235951_cov_4.788579 (121040, 123860)	47	med
+C13F5_subsampled_20Gb_Hybrid_bin.64	161	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	98.1	1.582	C13F5_subsampled_20Gb_Hybrid_bin.64_NODE_9293_length_7923_cov_11.140976 (22, 132)		C13F5_subsampled_20Gb_Hybrid_bin.64_NODE_9293_length_7923_cov_11.140976 (473, 3389)	49	med
+C13F5_subsampled_20Gb_Hybrid_bin.65	258	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__ASTD01;s__	93.85	1.364				47	med
+C13F5_subsampled_20Gb_Hybrid_bin.66	214	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter;s__	74.9	4.026				22	med
+C13F5_subsampled_20Gb_Hybrid_bin.67	16	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	94.21	0.377	2 present			47	med
+C13F5_subsampled_20Gb_Hybrid_bin.68	25	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	1.132	C13F5_subsampled_20Gb_Hybrid_bin.68_NODE_1980_length_34123_cov_57.155449 (33874, 33961)			51	med
+C13F5_subsampled_20Gb_Hybrid_bin.69	33	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp001689685	92.95	0.0	3 present	3 present	3 present	46	med
+C13F5_subsampled_20Gb_Hybrid_bin.7	109	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__	94.14	2.298		C13F5_subsampled_20Gb_Hybrid_bin.7_NODE_2280_length_30119_cov_12.508794 (28177, 29712)	C13F5_subsampled_20Gb_Hybrid_bin.7_NODE_10714_length_6677_cov_24.420036 (4883, 6677)	45	med
+C13F5_subsampled_20Gb_Hybrid_bin.70	110	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD42-69;s__1XD42-69 sp011959925	96.49	0.966		4 present	2 present	54	med
+C13F5_subsampled_20Gb_Hybrid_bin.71	1	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Akkermansia;s__Akkermansia muciniphila	97.95	0.68	3 present	3 present	3 present	54	med
+C13F5_subsampled_20Gb_Hybrid_bin.72	12	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2;s__14-2 sp009774455	99.42	1.532		4 present	4 present	55	med
+C13F5_subsampled_20Gb_Hybrid_bin.73	215	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__ASTD01;s__	97.85	4.249		2 present		38	med
+C13F5_subsampled_20Gb_Hybrid_bin.74	112	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__	94.37	0.891				45	med
+C13F5_subsampled_20Gb_Hybrid_bin.75	88	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp000403335	98.16	2.485		5 present	5 present	66	med
+C13F5_subsampled_20Gb_Hybrid_bin.76	88	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	97.53	0.776	C13F5_subsampled_20Gb_Hybrid_bin.76_NODE_1771_length_37955_cov_5.297073 (35834, 35930)		C13F5_subsampled_20Gb_Hybrid_bin.76_NODE_1771_length_37955_cov_5.297073 (36160, 37954)	53	med
+C13F5_subsampled_20Gb_Hybrid_bin.77	250	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerosacchariphilus;s__Anaerosacchariphilus sp011959465	90.48	1.18				40	med
+C13F5_subsampled_20Gb_Hybrid_bin.78	160	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp009774395	98.16	1.724		4 present	3 present	54	med
+C13F5_subsampled_20Gb_Hybrid_bin.79	1	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__Alistipes sp002428825	99.03	0.0	2 present	2 present	2 present	43	med
+C13F5_subsampled_20Gb_Hybrid_bin.8	336	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp000403215	92.97	4.908				37	med
+C13F5_subsampled_20Gb_Hybrid_bin.80	241	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD8-76;s__	93.58	2.873			C13F5_subsampled_20Gb_Hybrid_bin.80_NODE_1818_length_36894_cov_2.246582 (34765, 36894)	42	med
+C13F5_subsampled_20Gb_Hybrid_bin.81	82	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95;s__CAG-95 sp009917455	96.43	2.394			2 present	51	med
+C13F5_subsampled_20Gb_Hybrid_bin.82	67	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__Acetatifactor sp003612485	95.68	1.34		C13F5_subsampled_20Gb_Hybrid_bin.82_NODE_195_length_214581_cov_4.995179 (99006, 100531)	C13F5_subsampled_20Gb_Hybrid_bin.82_NODE_195_length_214581_cov_4.995179 (101121, 104051)	46	med
+C13F5_subsampled_20Gb_Hybrid_bin.83	657	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__ASTD01;s__	81.35	3.826				27	med
+C13F5_subsampled_20Gb_Hybrid_bin.9	35	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UMGS1370;s__	98.1	0.0				51	med
+C13F5_subsampled_20Gb_bin.1	533	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Clostridium_Q;s__	95.06	2.267				48	med
+C13F5_subsampled_20Gb_bin.10	730	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp000403215	91.54	4.764				39	med
+C13F5_subsampled_20Gb_bin.11	38	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__;s__	96.37	0.026	2 present			41	med
+C13F5_subsampled_20Gb_bin.12	51	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp009775535	96.41	0.0				42	med
+C13F5_subsampled_20Gb_bin.13	129	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__Acetatifactor sp003612485	93.86	1.34				43	med
+C13F5_subsampled_20Gb_bin.14	60	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp001689685	98.42	0.0				38	med
+C13F5_subsampled_20Gb_bin.16	25	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__UBA11940;s__UBA11940 sp013316055	95.29	0.026	C13F5_subsampled_20Gb_bin.16_NODE_174_length_128178_cov_46.651957 (247, 356)			37	med
+C13F5_subsampled_20Gb_bin.17	107	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp000403335	98.16	2.485				52	med
+C13F5_subsampled_20Gb_bin.18	39	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Paramuribaculum;s__	99.43	0.377				47	med
+C13F5_subsampled_20Gb_bin.19	339	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	87.19	2.298				40	med
+C13F5_subsampled_20Gb_bin.2	8	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__Alistipes sp002428825	99.03	0.0				41	med
+C13F5_subsampled_20Gb_bin.20	45	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	94.21	0.377	C13F5_subsampled_20Gb_bin.20_NODE_824_length_54624_cov_24.761706 (54311, 54407)		C13F5_subsampled_20Gb_bin.20_NODE_17129_length_3196_cov_64.367452 (13, 2931)	46	med
+C13F5_subsampled_20Gb_bin.21	184	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95;s__CAG-95 sp009917455	98.73	3.021				49	med
+C13F5_subsampled_20Gb_bin.22	221	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	99.71	3.744		C13F5_subsampled_20Gb_bin.22_NODE_10788_length_5003_cov_12.321166 (3438, 4958)	C13F5_subsampled_20Gb_bin.22_NODE_10788_length_5003_cov_12.321166 (4, 2911)	61	med
+C13F5_subsampled_20Gb_bin.23	155	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__	90.72	0.574				41	med
+C13F5_subsampled_20Gb_bin.24	32	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	0.754				44	med
+C13F5_subsampled_20Gb_bin.25	80	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2;s__14-2 sp009774455	99.42	2.107				52	med
+C13F5_subsampled_20Gb_bin.26	91	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__CAG-485 sp009775355	94.77	0.377				44	med
+C13F5_subsampled_20Gb_bin.27	175	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__UMGS1872 sp014237695	97.31	2.013	C13F5_subsampled_20Gb_bin.27_NODE_9585_length_5620_cov_32.530339 (5076, 5183)			34	med
+C13F5_subsampled_20Gb_bin.28	426	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__;s__	93.24	3.691	2 present			42	med
+C13F5_subsampled_20Gb_bin.29	272	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	92.72	0.782	C13F5_subsampled_20Gb_bin.29_NODE_20480_length_2711_cov_6.565467 (8, 114)			35	med
+C13F5_subsampled_20Gb_bin.3	16	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	1.132				45	med
+C13F5_subsampled_20Gb_bin.30	131	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	97.31	1.342	2 present			43	med
+C13F5_subsampled_20Gb_bin.31	516	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA7182;s__UBA7182 sp009774145	93.44	3.31				32	med
+C13F5_subsampled_20Gb_bin.32	83	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__CAG-552;g__;s__	95.78	0.699		C13F5_subsampled_20Gb_bin.32_NODE_2256_length_23922_cov_3.702892 (15153, 16663)		44	med
+C13F5_subsampled_20Gb_bin.33	62	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA7182;s__	94.62	1.898				46	med
+C13F5_subsampled_20Gb_bin.34	193	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UMGS1370;s__	98.1	1.582				38	med
+C13F5_subsampled_20Gb_bin.35	50	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	0.754	C13F5_subsampled_20Gb_bin.35_NODE_2852_length_19125_cov_58.158520 (18876, 18963)	C13F5_subsampled_20Gb_bin.35_NODE_34645_length_1671_cov_131.188295 (130, 1661)		47	med
+C13F5_subsampled_20Gb_bin.36	359	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__	97.58	2.969			C13F5_subsampled_20Gb_bin.36_NODE_18274_length_3014_cov_29.012693 (226, 3012)	43	med
+C13F5_subsampled_20Gb_bin.37	98	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UMGS1370;s__	99.36	0.0			C13F5_subsampled_20Gb_bin.37_NODE_1623_length_31616_cov_41.591522 (1, 991)	52	med
+C13F5_subsampled_20Gb_bin.38	529	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	91.45	1.898				38	med
+C13F5_subsampled_20Gb_bin.39	50	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__	98.27	1.915		C13F5_subsampled_20Gb_bin.39_NODE_88_length_176442_cov_24.370556 (1, 418)		42	med
+C13F5_subsampled_20Gb_bin.4	357	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Schaedlerella;s__Schaedlerella sp000403295	90.98	1.189				37	med
+C13F5_subsampled_20Gb_bin.40	746	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	92.12	1.983				23	med
+C13F5_subsampled_20Gb_bin.41	138	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	99.4	2.507				49	med
+C13F5_subsampled_20Gb_bin.42	44	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Muribaculum;s__Muribaculum sp002492595	99.43	0.0				48	med
+C13F5_subsampled_20Gb_bin.43	44	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__Duncaniella muris	93.96	0.503				41	med
+C13F5_subsampled_20Gb_bin.44	90	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95;s__CAG-95 sp009911035	95.97	1.724				36	med
+C13F5_subsampled_20Gb_bin.45	279	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	97.42	0.0	2 present			45	med
+C13F5_subsampled_20Gb_bin.46	238	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA9502;s__	98.1	1.265				45	med
+C13F5_subsampled_20Gb_bin.47	95	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp002491305	97.92	0.377	C13F5_subsampled_20Gb_bin.47_NODE_7643_length_6979_cov_30.303343 (6805, 6900)	C13F5_subsampled_20Gb_bin.47_NODE_4949_length_10867_cov_40.659640 (9910, 10867)		39	med
+C13F5_subsampled_20Gb_bin.48	255	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Schaedlerella;s__Schaedlerella arabinosiphila	92.46	2.046				43	med
+C13F5_subsampled_20Gb_bin.49	606	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	77.0	2.561	C13F5_subsampled_20Gb_bin.49_NODE_10771_length_5013_cov_2.102361 (4657, 4757)			28	med
+C13F5_subsampled_20Gb_bin.5	78	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__UBA3700;g__RACS-045;s__	94.85	0.223		C13F5_subsampled_20Gb_bin.5_NODE_3061_length_17819_cov_7.401185 (45, 1552)		44	med
+C13F5_subsampled_20Gb_bin.50	36	d__Bacteria;p__Firmicutes;c__Bacilli;o__Acholeplasmatales;f__Anaeroplasmataceae;g__UMGS268;s__	98.66	0.111	C13F5_subsampled_20Gb_bin.50_NODE_1265_length_38958_cov_29.411462 (38877, 38957)			41	med
+C13F5_subsampled_20Gb_bin.51	472	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__CAG-485 sp002362485	83.11	2.264				19	med
+C13F5_subsampled_20Gb_bin.52	205	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3402;s__	98.41	0.0				61	med
+C13F5_subsampled_20Gb_bin.53	57	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp001689485	98.67	0.377	C13F5_subsampled_20Gb_bin.53_NODE_396_length_87434_cov_74.614095 (331, 423)			45	med
+C13F5_subsampled_20Gb_bin.54	106	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__CAG-917;g__CAG-475;s__	90.02	0.062	C13F5_subsampled_20Gb_bin.54_NODE_370_length_90526_cov_4.079080 (12799, 12908)	C13F5_subsampled_20Gb_bin.54_NODE_370_length_90526_cov_4.079080 (7884, 9394)	C13F5_subsampled_20Gb_bin.54_NODE_370_length_90526_cov_4.079080 (9766, 12682)	35	high
+C13F5_subsampled_20Gb_bin.55	68	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp009775265	93.96	0.88				53	med
+C13F5_subsampled_20Gb_bin.56	467	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3402;s__	92.33	2.551				36	med
+C13F5_subsampled_20Gb_bin.57	34	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.42	0.377				50	med
+C13F5_subsampled_20Gb_bin.58	221	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	95.64	0.776				48	med
+C13F5_subsampled_20Gb_bin.59	96	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__UBA11940;s__UBA11940 sp003979335	84.47	0.806	C13F5_subsampled_20Gb_bin.59_NODE_352_length_92258_cov_89.594169 (11, 120)			46	med
+C13F5_subsampled_20Gb_bin.6	500	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerosacchariphilus;s__Anaerosacchariphilus sp011959465	90.27	1.16				41	med
+C13F5_subsampled_20Gb_bin.60	197	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__UBA3282 sp003611805	95.25	1.053				44	med
+C13F5_subsampled_20Gb_bin.61	519	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__	87.61	0.754				36	med
+C13F5_subsampled_20Gb_bin.62	193	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__Eubacterium_J sp009774535	97.01	1.279				41	med
+C13F5_subsampled_20Gb_bin.63	676	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2;s__14-2 sp000403315	83.96	1.532				26	med
+C13F5_subsampled_20Gb_bin.64	201	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA9502;s__	98.1	0.0				47	med
+C13F5_subsampled_20Gb_bin.65	33	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Paramuribaculum;s__	99.24	0.377				47	med
+C13F5_subsampled_20Gb_bin.66	706	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__TF01-11;s__	92.33	1.942				30	med
+C13F5_subsampled_20Gb_bin.67	352	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp009774395	98.16	1.724				49	med
+C13F5_subsampled_20Gb_bin.68	32	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Akkermansia;s__Akkermansia muciniphila	97.95	0.68	C13F5_subsampled_20Gb_bin.68_NODE_9324_length_5756_cov_153.291320 (71, 178)	C13F5_subsampled_20Gb_bin.68_NODE_9324_length_5756_cov_153.291320 (3808, 5316)	C13F5_subsampled_20Gb_bin.68_NODE_9324_length_5756_cov_153.291320 (422, 3252)	50	high
+C13F5_subsampled_20Gb_bin.7	458	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__ASTD01;s__	80.71	2.046				17	med
+C13F5_subsampled_20Gb_bin.8	476	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__ASTD01;s__	93.3	3.372				31	med
+C13F5_subsampled_20Gb_bin.9	203	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD42-69;s__1XD42-69 sp011959925	97.18	0.579				43	med
+C13F5_subsampled_40Gb_bin.1	599	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter;s__	73.95	2.46	C13F5_subsampled_40Gb_bin.1_NODE_5799_length_11098_cov_2.379944 (2, 80)			15	med
+C13F5_subsampled_40Gb_bin.10	215	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	95.74	1.363	C13F5_subsampled_40Gb_bin.10_NODE_21376_length_2874_cov_11.254775 (8, 114)			37	med
+C13F5_subsampled_40Gb_bin.11	155	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	96.75	0.02	C13F5_subsampled_40Gb_bin.11_NODE_858_length_62366_cov_15.457722 (183, 289)			37	med
+C13F5_subsampled_40Gb_bin.12	123	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__UBA3282 sp003611805	96.33	1.149				44	med
+C13F5_subsampled_40Gb_bin.13	370	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	96.06	3.243				30	med
+C13F5_subsampled_40Gb_bin.14	309	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__UBA3700;g__RACS-045;s__	83.6	0.265	C13F5_subsampled_40Gb_bin.14_NODE_14682_length_4192_cov_2.824090 (3675, 3785)			32	med
+C13F5_subsampled_40Gb_bin.15	490	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter;s__	79.86	3.292				16	med
+C13F5_subsampled_40Gb_bin.16	89	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__UBA11940;s__UBA11940 sp003979335	80.17	0.0	C13F5_subsampled_40Gb_bin.16_NODE_453_length_91713_cov_137.712468 (11, 120)	C13F5_subsampled_40Gb_bin.16_NODE_3188_length_21117_cov_134.076173 (20566, 21116)		49	med
+C13F5_subsampled_40Gb_bin.17	85	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD42-69;s__1XD42-69 sp011959925	95.65	0.0				40	med
+C13F5_subsampled_40Gb_bin.18	543	d__Bacteria;p__Actinobacteriota;c__Coriobacteriia;o__Coriobacteriales;f__Eggerthellaceae;g__Adlercreutzia;s__Adlercreutzia muris	75.12	1.209	C13F5_subsampled_40Gb_bin.18_NODE_10519_length_5955_cov_3.030055 (431, 523)			41	med
+C13F5_subsampled_40Gb_bin.19	31	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Paramuribaculum;s__	98.49	0.377				47	med
+C13F5_subsampled_40Gb_bin.2	250	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__ASTD01;s__	98.44	1.656				37	med
+C13F5_subsampled_40Gb_bin.20	43	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	93.83	0.377	C13F5_subsampled_40Gb_bin.20_NODE_1021_length_54624_cov_40.043301 (54311, 54407)			46	med
+C13F5_subsampled_40Gb_bin.21	45	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	0.88				51	med
+C13F5_subsampled_40Gb_bin.22	147	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__	97.39	1.819				44	med
+C13F5_subsampled_40Gb_bin.23	40	d__Bacteria;p__Firmicutes;c__Bacilli;o__Acholeplasmatales;f__Anaeroplasmataceae;g__UMGS268;s__	98.66	0.111	C13F5_subsampled_40Gb_bin.23_NODE_1607_length_38957_cov_44.110505 (38876, 38956)			41	med
+C13F5_subsampled_40Gb_bin.24	160	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2;s__14-2 sp000403315	96.05	1.915				45	med
+C13F5_subsampled_40Gb_bin.25	57	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp001689485	98.67	0.377	C13F5_subsampled_40Gb_bin.25_NODE_500_length_87434_cov_119.071403 (87012, 87104)			46	med
+C13F5_subsampled_40Gb_bin.26	518	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Marseille-P3106;s__	73.74	1.342				20	med
+C13F5_subsampled_40Gb_bin.27	892	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__ASTD01;s__	89.05	2.501				29	med
+C13F5_subsampled_40Gb_bin.28	147	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__;s__	96.6	0.223	C13F5_subsampled_40Gb_bin.28_NODE_6391_length_10070_cov_5.411995 (6, 95)			29	med
+C13F5_subsampled_40Gb_bin.29	420	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerosacchariphilus;s__Anaerosacchariphilus sp011959465	92.8	0.949				42	med
+C13F5_subsampled_40Gb_bin.3	230	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Schaedlerella;s__Schaedlerella sp000403295	90.1	1.267				42	med
+C13F5_subsampled_40Gb_bin.30	790	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA9502;s__	85.83	2.819				39	med
+C13F5_subsampled_40Gb_bin.31	57	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp009775265	94.18	0.314				49	med
+C13F5_subsampled_40Gb_bin.32	325	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	87.48	1.724				43	med
+C13F5_subsampled_40Gb_bin.33	156	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__UMGS1872 sp014237695	96.03	1.677	C13F5_subsampled_40Gb_bin.33_NODE_12014_length_5189_cov_44.791159 (5076, 5183)			36	med
+C13F5_subsampled_40Gb_bin.34	343	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Clostridium_Q;s__	94.38	0.843				49	med
+C13F5_subsampled_40Gb_bin.35	56	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__	98.27	1.915		C13F5_subsampled_40Gb_bin.35_NODE_100_length_176442_cov_41.035102 (1, 418)		47	med
+C13F5_subsampled_40Gb_bin.36	411	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD8-76;s__	94.37	3.467				39	med
+C13F5_subsampled_40Gb_bin.37	662	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Acutalibacter;s__Acutalibacter muris	76.93	2.376				28	med
+C13F5_subsampled_40Gb_bin.38	63	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp001689685	98.42	0.0				39	med
+C13F5_subsampled_40Gb_bin.39	13	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.05	0.377		C13F5_subsampled_40Gb_bin.39_NODE_16_length_295248_cov_128.121982 (2, 943)		44	med
+C13F5_subsampled_40Gb_bin.4	786	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__	78.67	2.394				25	med
+C13F5_subsampled_40Gb_bin.40	334	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__ASTD01;s__	93.85	1.584				49	med
+C13F5_subsampled_40Gb_bin.41	70	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__UBA3700;g__RACS-045;s__	94.85	0.223	C13F5_subsampled_40Gb_bin.41_NODE_382_length_99866_cov_11.762046 (39166, 39277)		C13F5_subsampled_40Gb_bin.41_NODE_382_length_99866_cov_11.762046 (39383, 42273)	44	med
+C13F5_subsampled_40Gb_bin.42	207	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3402;s__	98.41	0.0				60	med
+C13F5_subsampled_40Gb_bin.43	87	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp000403335	98.16	2.485				53	med
+C13F5_subsampled_40Gb_bin.44	148	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	99.4	2.49				49	med
+C13F5_subsampled_40Gb_bin.45	132	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UMGS1370;s__	99.36	1.582				46	med
+C13F5_subsampled_40Gb_bin.46	234	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J;s__Eubacterium_J sp009774535	96.43	1.566				51	med
+C13F5_subsampled_40Gb_bin.47	410	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__;s__	98.1	1.74				44	med
+C13F5_subsampled_40Gb_bin.48	449	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Flavonifractor;s__	83.14	3.733	C13F5_subsampled_40Gb_bin.48_NODE_15860_length_3879_cov_2.440212 (3790, 3876)			26	med
+C13F5_subsampled_40Gb_bin.49	44	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UMGS1872;s__	96.64	0.671	C13F5_subsampled_40Gb_bin.49_NODE_759_length_67563_cov_52.177917 (113, 220)	C13F5_subsampled_40Gb_bin.49_NODE_46_length_234596_cov_62.163345 (232239, 233766)		34	med
+C13F5_subsampled_40Gb_bin.5	75	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__Duncaniella muris	76.35	0.125				40	med
+C13F5_subsampled_40Gb_bin.50	338	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	95.36	2.201	C13F5_subsampled_40Gb_bin.50_NODE_11749_length_5302_cov_3.429175 (257, 357)			38	med
+C13F5_subsampled_40Gb_bin.51	110	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA9502;s__	99.36	1.265				48	med
+C13F5_subsampled_40Gb_bin.52	67	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.43	0.754	2 present			49	med
+C13F5_subsampled_40Gb_bin.53	53	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter;s__	75.3	0.671				32	med
+C13F5_subsampled_40Gb_bin.54	660	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD8-76;s__	86.82	2.278				37	med
+C13F5_subsampled_40Gb_bin.55	240	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__CAG-485 sp002362485	97.19	1.886				41	med
+C13F5_subsampled_40Gb_bin.56	108	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__UBA7173 sp002491305	98.67	0.377	C13F5_subsampled_40Gb_bin.56_NODE_8440_length_7471_cov_50.798155 (80, 175)			43	med
+C13F5_subsampled_40Gb_bin.57	131	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95;s__CAG-95 sp009917455	98.85	3.021				49	med
+C13F5_subsampled_40Gb_bin.58	60	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__CAG-917;g__CAG-475;s__	90.82	0.02	C13F5_subsampled_40Gb_bin.58_NODE_604_length_78042_cov_6.093607 (77468, 77577)	C13F5_subsampled_40Gb_bin.58_NODE_5303_length_12268_cov_5.364944 (7884, 9394)	C13F5_subsampled_40Gb_bin.58_NODE_5303_length_12268_cov_5.364944 (9766, 12268)	46	high
+C13F5_subsampled_40Gb_bin.59	37	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Muribaculum;s__Muribaculum sp002492595	99.43	0.0				48	med
+C13F5_subsampled_40Gb_bin.6	226	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-485;s__	94.84	0.377				39	med
+C13F5_subsampled_40Gb_bin.60	79	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__Acetatifactor sp003612485	95.68	1.915				45	med
+C13F5_subsampled_40Gb_bin.61	33	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__UBA11940;s__UBA11940 sp013316055	95.29	0.026	2 present			38	med
+C13F5_subsampled_40Gb_bin.62	198	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__	96.64	1.724				46	med
+C13F5_subsampled_40Gb_bin.63	460	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__TF01-11;s__	97.31	1.159				35	med
+C13F5_subsampled_40Gb_bin.64	34	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__Akkermansia;s__Akkermansia muciniphila	97.95	0.68	C13F5_subsampled_40Gb_bin.64_NODE_10872_length_5756_cov_225.816334 (5579, 5686)	C13F5_subsampled_40Gb_bin.64_NODE_10872_length_5756_cov_225.816334 (441, 1949)	C13F5_subsampled_40Gb_bin.64_NODE_10872_length_5756_cov_225.816334 (2505, 5335)	50	high
+C13F5_subsampled_40Gb_bin.65	261	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Schaedlerella;s__Schaedlerella arabinosiphila	93.09	1.896			C13F5_subsampled_40Gb_bin.65_NODE_1791_length_35605_cov_21.597082 (1, 974)	50	med
+C13F5_subsampled_40Gb_bin.66	790	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Kineothrix;s__Kineothrix sp011958945	85.5	2.049				26	med
+C13F5_subsampled_40Gb_bin.67	48	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Duncaniella;s__	99.42	0.754				50	med
+C13F5_subsampled_40Gb_bin.68	123	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__	99.9	4.319				48	med
+C13F5_subsampled_40Gb_bin.69	426	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA7182;s__UBA7182 sp009774145	93.61	2.867				45	med
+C13F5_subsampled_40Gb_bin.7	33	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__Borkfalkiaceae;g__;s__	96.37	0.026	2 present			55	med
+C13F5_subsampled_40Gb_bin.70	216	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA9502;s__	96.83	0.0				47	med
+C13F5_subsampled_40Gb_bin.71	253	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp009774395	98.16	1.724				51	med
+C13F5_subsampled_40Gb_bin.72	94	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UMGS1370;s__	99.36	0.0				51	med
+C13F5_subsampled_40Gb_bin.73	124	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	97.16	0.377				49	med
+C13F5_subsampled_40Gb_bin.74	77	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA7182;s__	98.1	2.215				55	med
+C13F5_subsampled_40Gb_bin.75	10	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__Alistipes sp002428825	99.03	0.0				41	med
+C13F5_subsampled_40Gb_bin.76	156	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95;s__CAG-95 sp009911035	97.7	1.724				38	med
+C13F5_subsampled_40Gb_bin.77	469	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter;s__Dysosmobacter sp009774015	81.68	2.572	C13F5_subsampled_40Gb_bin.77_NODE_4017_length_16493_cov_3.709162 (16398, 16488)			28	med
+C13F5_subsampled_40Gb_bin.78	57	d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__CAG-552;g__;s__	96.48	0.699	C13F5_subsampled_40Gb_bin.78_NODE_5117_length_12742_cov_5.351103 (11821, 11930)	C13F5_subsampled_40Gb_bin.78_NODE_289_length_112575_cov_5.674419 (7337, 8847)	C13F5_subsampled_40Gb_bin.78_NODE_5117_length_12742_cov_5.351103 (8635, 11558)	45	high
+C13F5_subsampled_40Gb_bin.79	43	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__Paramuribaculum;s__	99.43	0.377				46	med
+C13F5_subsampled_40Gb_bin.8	51	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp009775535	96.41	0.0				42	med
+C13F5_subsampled_40Gb_bin.80	536	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__	81.48	1.908				25	med
+C13F5_subsampled_40Gb_bin.81	249	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3402;s__	99.34	0.632				53	med
+C13F5_subsampled_40Gb_bin.82	810	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp000403215	93.46	2.298				31	med
+C13F5_subsampled_40Gb_bin.83	701	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerosacchariphilus;s__Anaerosacchariphilus sp009917555	85.43	2.531				24	med
+C13F5_subsampled_40Gb_bin.9	78	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2;s__14-2 sp009774455	99.42	6.417				53	med

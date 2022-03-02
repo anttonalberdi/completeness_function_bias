@@ -1,0 +1,107 @@
+genome	number of scaffolds	taxonomy	5S rRNA	16S rRNA	23S rRNA	tRNA count
+SgH_bin.1	32	SgH_bin.1				46
+SgH_bin.10	171	SgH_bin.10	4 present			63
+SgH_bin.100	38	SgH_bin.100				33
+SgH_bin.101	514	SgH_bin.101				33
+SgH_bin.102	146	SgH_bin.102	7 present	SgH_bin.102_k141_141085-flag_0-multi_135.0945-len_57930 (2, 1352)		79
+SgH_bin.103	275	SgH_bin.103				35
+SgH_bin.104	226	SgH_bin.104				36
+SgH_bin.105	853	SgH_bin.105				32
+SgH_bin.106	1130	SgH_bin.106	SgH_bin.106_k141_9895-flag_0-multi_6.9635-len_3757 (26, 128)			38
+SgH_bin.11	241	SgH_bin.11				35
+SgH_bin.12	129	SgH_bin.12				32
+SgH_bin.13	308	SgH_bin.13	SgH_bin.13_k141_1110788-flag_1-multi_3.8491-len_2560 (463, 571)			19
+SgH_bin.14	598	SgH_bin.14				22
+SgH_bin.15	205	SgH_bin.15	3 present	SgH_bin.15_k141_1295090-flag_0-multi_18.2804-len_25173 (21617, 23185)	SgH_bin.15_k141_1295090-flag_0-multi_18.2804-len_25173 (23968, 25164)	49
+SgH_bin.16	23	SgH_bin.16				42
+SgH_bin.17	84	SgH_bin.17				44
+SgH_bin.18	487	SgH_bin.18				37
+SgH_bin.19	315	SgH_bin.19				35
+SgH_bin.2	409	SgH_bin.2	SgH_bin.2_k141_800987-flag_0-multi_19.4654-len_11632 (348, 452)			56
+SgH_bin.20	598	SgH_bin.20				42
+SgH_bin.21	464	SgH_bin.21	2 present			41
+SgH_bin.22	12	SgH_bin.22				40
+SgH_bin.23	466	SgH_bin.23				24
+SgH_bin.24	549	SgH_bin.24	3 present			44
+SgH_bin.25	93	SgH_bin.25				46
+SgH_bin.26	447	SgH_bin.26				33
+SgH_bin.27	361	SgH_bin.27				37
+SgH_bin.28	494	SgH_bin.28				37
+SgH_bin.29	388	SgH_bin.29				29
+SgH_bin.3	119	SgH_bin.3		SgH_bin.3_k141_622140-flag_0-multi_10.9501-len_20980 (20417, 20980)	SgH_bin.3_k141_1298710-flag_0-multi_11.9850-len_20132 (2, 2043)	35
+SgH_bin.30	319	SgH_bin.30				32
+SgH_bin.31	652	SgH_bin.31				22
+SgH_bin.32	197	SgH_bin.32	4 present			52
+SgH_bin.33	782	SgH_bin.33				37
+SgH_bin.34	223	SgH_bin.34				46
+SgH_bin.35	272	SgH_bin.35	SgH_bin.35_k141_1013864-flag_1-multi_10.9869-len_16894 (16796, 16884)			37
+SgH_bin.36	567	SgH_bin.36				48
+SgH_bin.37	75	SgH_bin.37		SgH_bin.37_k141_545349-flag_0-multi_31.8367-len_63169 (1, 757)		50
+SgH_bin.38	87	SgH_bin.38				45
+SgH_bin.39	146	SgH_bin.39	3 present	SgH_bin.39_k141_1305276-flag_0-multi_15.5782-len_8673 (8268, 8673)		41
+SgH_bin.4	131	SgH_bin.4				46
+SgH_bin.40	434	SgH_bin.40	SgH_bin.40_k141_808912-flag_0-multi_7.8697-len_2505 (2321, 2385)			51
+SgH_bin.41	590	SgH_bin.41				21
+SgH_bin.42	578	SgH_bin.42				44
+SgH_bin.43	366	SgH_bin.43				36
+SgH_bin.44	184	SgH_bin.44				50
+SgH_bin.45	403	SgH_bin.45				58
+SgH_bin.46	292	SgH_bin.46				46
+SgH_bin.47	161	SgH_bin.47				45
+SgH_bin.48	328	SgH_bin.48	4 present			62
+SgH_bin.49	154	SgH_bin.49	SgH_bin.49_k141_1313822-flag_0-multi_117.4698-len_4002 (3897, 4001)	SgH_bin.49_k141_353961-flag_0-multi_65.8049-len_15438 (15033, 15436)		46
+SgH_bin.5	146	SgH_bin.5	SgH_bin.5_k141_124775-flag_0-multi_39.9770-len_25830 (25725, 25829)			43
+SgH_bin.50	230	SgH_bin.50				39
+SgH_bin.51	442	SgH_bin.51	4 present			51
+SgH_bin.52	631	SgH_bin.52				20
+SgH_bin.53	257	SgH_bin.53	4 present			63
+SgH_bin.54	343	SgH_bin.54				25
+SgH_bin.55	397	SgH_bin.55				37
+SgH_bin.56	345	SgH_bin.56				36
+SgH_bin.57	625	SgH_bin.57				34
+SgH_bin.58	152	SgH_bin.58	3 present			60
+SgH_bin.59	152	SgH_bin.59	6 present	SgH_bin.59_k141_314918-flag_0-multi_50.6304-len_23807 (23397, 23807)		67
+SgH_bin.6	623	SgH_bin.6	SgH_bin.6_k141_450163-flag_1-multi_8.4677-len_2636 (171, 281)			38
+SgH_bin.60	151	SgH_bin.60	SgH_bin.60_k141_8241-flag_0-multi_30.9089-len_30004 (283, 381)			52
+SgH_bin.61	196	SgH_bin.61				54
+SgH_bin.62	672	SgH_bin.62				21
+SgH_bin.63	332	SgH_bin.63				37
+SgH_bin.64	73	SgH_bin.64				39
+SgH_bin.65	322	SgH_bin.65		SgH_bin.65_k141_890686-flag_1-multi_19.5781-len_7455 (2, 402)		46
+SgH_bin.66	131	SgH_bin.66				55
+SgH_bin.67	325	SgH_bin.67		SgH_bin.67_k141_1131110-flag_0-multi_19.9603-len_13541 (37, 1574)		43
+SgH_bin.68	367	SgH_bin.68				31
+SgH_bin.69	84	SgH_bin.69	SgH_bin.69_k141_1334933-flag_0-multi_16.2475-len_32928 (32467, 32572)			54
+SgH_bin.7	260	SgH_bin.7	2 present			42
+SgH_bin.70	85	SgH_bin.70	2 present			47
+SgH_bin.71	998	SgH_bin.71	SgH_bin.71_k141_515116-flag_0-multi_16.0650-len_1602 (1223, 1328)			39
+SgH_bin.72	548	SgH_bin.72	4 present			42
+SgH_bin.73	152	SgH_bin.73				60
+SgH_bin.74	371	SgH_bin.74		SgH_bin.74_k141_793945-flag_1-multi_10.8222-len_30811 (29571, 30810)		38
+SgH_bin.75	172	SgH_bin.75				32
+SgH_bin.76	118	SgH_bin.76		SgH_bin.76_k141_999784-flag_0-multi_17.0490-len_21749 (61, 1593)		49
+SgH_bin.77	546	SgH_bin.77				35
+SgH_bin.78	88	SgH_bin.78	2 present			37
+SgH_bin.79	769	SgH_bin.79				43
+SgH_bin.8	204	SgH_bin.8				52
+SgH_bin.80	558	SgH_bin.80	SgH_bin.80_k141_964468-flag_0-multi_22.4671-len_3922 (3585, 3695)			68
+SgH_bin.81	114	SgH_bin.81	4 present			71
+SgH_bin.82	618	SgH_bin.82				24
+SgH_bin.83	712	SgH_bin.83				46
+SgH_bin.84	313	SgH_bin.84	SgH_bin.84_k141_1269142-flag_1-multi_8.0000-len_8698 (3963, 4074)			36
+SgH_bin.85	108	SgH_bin.85		SgH_bin.85_k141_307218-flag_1-multi_27.5553-len_43532 (43107, 43532)		57
+SgH_bin.86	413	SgH_bin.86	2 present	SgH_bin.86_k141_859216-flag_0-multi_83.5655-len_15081 (14638, 15080)		40
+SgH_bin.87	279	SgH_bin.87				43
+SgH_bin.88	512	SgH_bin.88	SgH_bin.88_k141_353528-flag_0-multi_9.9669-len_6400 (5599, 5706)			27
+SgH_bin.89	413	SgH_bin.89	SgH_bin.89_k141_824745-flag_0-multi_11.9429-len_4382 (9, 106)			24
+SgH_bin.9	136	SgH_bin.9				48
+SgH_bin.90	622	SgH_bin.90				22
+SgH_bin.91	182	SgH_bin.91				54
+SgH_bin.92	612	SgH_bin.92	2 present			59
+SgH_bin.93	248	SgH_bin.93	4 present			54
+SgH_bin.94	138	SgH_bin.94	SgH_bin.94_k141_37193-flag_0-multi_31.7884-len_10698 (427, 492)	SgH_bin.94_k141_580111-flag_0-multi_34.5990-len_55800 (1282, 2834)	SgH_bin.94_k141_580111-flag_0-multi_34.5990-len_55800 (12, 967)	37
+SgH_bin.95	579	SgH_bin.95				26
+SgH_bin.96	288	SgH_bin.96				65
+SgH_bin.97	33	SgH_bin.97				41
+SgH_bin.98	449	SgH_bin.98				51
+SgH_bin.99	699	SgH_bin.99	2 present			43

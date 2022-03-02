@@ -1,0 +1,457 @@
+genome	number of scaffolds	taxonomy	5S rRNA	16S rRNA	23S rRNA	tRNA count
+Sa_bin.10	537	Sa_bin.10		Sa_bin.10_k141_1123150-flag_0-multi_6.8540-len_6032 (4717, 6032)		30
+Sa_bin.100	274	Sa_bin.100		Sa_bin.100_k141_286198-flag_0-multi_36.8464-len_54510 (54048, 54509)		45
+Sa_bin.102	47	Sa_bin.102				45
+Sa_bin.103	198	Sa_bin.103	Sa_bin.103_k141_797744-flag_0-multi_26.4945-len_80803 (80381, 80479)			54
+Sa_bin.105	811	Sa_bin.105				36
+Sa_bin.106	82	Sa_bin.106				41
+Sa_bin.108	130	Sa_bin.108	3 present			49
+Sa_bin.109	492	Sa_bin.109				25
+Sa_bin.11	458	Sa_bin.11	Sa_bin.11_k141_385304-flag_0-multi_55.3113-len_14175 (13959, 14063)			42
+Sa_bin.111	349	Sa_bin.111	Sa_bin.111_k141_541691-flag_0-multi_11.9703-len_8289 (7697, 7808)			53
+Sa_bin.112	340	Sa_bin.112	Sa_bin.112_k141_763189-flag_0-multi_6.9750-len_3019 (2504, 2612)			22
+Sa_bin.113	147	Sa_bin.113	2 present			67
+Sa_bin.114	141	Sa_bin.114				50
+Sa_bin.116	587	Sa_bin.116	Sa_bin.116_k141_670070-flag_0-multi_4.8076-len_4445 (3758, 3870)	2 present		12
+Sa_bin.119	86	Sa_bin.119	2 present			30
+Sa_bin.120	19	Sa_bin.120	Sa_bin.120_k141_344540-flag_0-multi_46.9487-len_40482 (39903, 40011)	Sa_bin.120_k141_493473-flag_0-multi_46.2319-len_12696 (3014, 4507)	Sa_bin.120_k141_493473-flag_0-multi_46.2319-len_12696 (1, 2401)	46
+Sa_bin.121	124	Sa_bin.121	Sa_bin.121_k141_1308899-flag_0-multi_14.9076-len_33580 (3, 109)			45
+Sa_bin.123	141	Sa_bin.123	Sa_bin.123_k141_414938-flag_0-multi_10.0000-len_25199 (513, 622)			38
+Sa_bin.124	304	Sa_bin.124				19
+Sa_bin.125	284	Sa_bin.125	4 present			55
+Sa_bin.128	37	Sa_bin.128		Sa_bin.128_k141_150738-flag_0-multi_17.9720-len_13513 (5324, 6810)	Sa_bin.128_k141_150738-flag_0-multi_17.9720-len_13513 (2277, 5011)	42
+Sa_bin.130	107	Sa_bin.130				42
+Sa_bin.131	64	Sa_bin.131				33
+Sa_bin.132	248	Sa_bin.132	Sa_bin.132_k141_1141293-flag_0-multi_16.1607-len_5162 (5051, 5159)			41
+Sa_bin.133	314	Sa_bin.133	Sa_bin.133_k141_988604-flag_0-multi_4.3592-len_3281 (2809, 2919)	Sa_bin.133_k141_1339900-flag_1-multi_8.8837-len_21957 (1, 403)		29
+Sa_bin.135	486	Sa_bin.135				14
+Sa_bin.137	274	Sa_bin.137				40
+Sa_bin.138	212	Sa_bin.138		Sa_bin.138_k141_454941-flag_1-multi_23.9454-len_18257 (17854, 18257)		54
+Sa_bin.14	363	Sa_bin.14	Sa_bin.14_k141_260411-flag_0-multi_6.9370-len_18338 (74, 181)			26
+Sa_bin.140	304	Sa_bin.140				46
+Sa_bin.141	444	Sa_bin.141				34
+Sa_bin.142	129	Sa_bin.142				53
+Sa_bin.144	114	Sa_bin.144	Sa_bin.144_k141_703504-flag_0-multi_37.2073-len_28008 (27906, 28005)	Sa_bin.144_k141_793219-flag_0-multi_137.2101-len_5734 (3197, 4705)	Sa_bin.144_k141_793219-flag_0-multi_137.2101-len_5734 (1, 2579)	45
+Sa_bin.145	624	Sa_bin.145				40
+Sa_bin.146	117	Sa_bin.146				45
+Sa_bin.147	204	Sa_bin.147	3 present			38
+Sa_bin.148	884	Sa_bin.148	Sa_bin.148_k141_1351867-flag_0-multi_4.8609-len_6002 (244, 337)			19
+Sa_bin.149	173	Sa_bin.149				44
+Sa_bin.150	121	Sa_bin.150			Sa_bin.150_k141_1081828-flag_0-multi_50.9454-len_20296 (10, 1732)	41
+Sa_bin.153	168	Sa_bin.153				53
+Sa_bin.155	76	Sa_bin.155				57
+Sa_bin.156	262	Sa_bin.156	Sa_bin.156_k141_933827-flag_0-multi_9.9886-len_18317 (17860, 17962)			39
+Sa_bin.157	785	Sa_bin.157				28
+Sa_bin.158	399	Sa_bin.158	Sa_bin.158_k141_37323-flag_1-multi_10.8026-len_5039 (730, 838)			24
+Sa_bin.16	92	Sa_bin.16		Sa_bin.16_k141_209889-flag_0-multi_30.9042-len_60421 (59957, 60420)		48
+Sa_bin.160	191	Sa_bin.160	Sa_bin.160_k141_1236990-flag_0-multi_9.9222-len_2685 (348, 457)			53
+Sa_bin.164	324	Sa_bin.164				56
+Sa_bin.165	240	Sa_bin.165		Sa_bin.165_k141_1188060-flag_0-multi_9.9955-len_44206 (43787, 44204)		43
+Sa_bin.166	350	Sa_bin.166				44
+Sa_bin.167	798	Sa_bin.167	Sa_bin.167_k141_1183244-flag_0-multi_8.4749-len_2655 (24, 133)			27
+Sa_bin.17	458	Sa_bin.17				28
+Sa_bin.170	94	Sa_bin.170				52
+Sa_bin.171	123	Sa_bin.171	2 present			50
+Sa_bin.172	572	Sa_bin.172	3 present			24
+Sa_bin.173	470	Sa_bin.173	Sa_bin.173_k141_259189-flag_0-multi_8.1102-len_8206 (822, 931)			32
+Sa_bin.174	278	Sa_bin.174				43
+Sa_bin.176	511	Sa_bin.176	Sa_bin.176_k141_155583-flag_0-multi_9.4673-len_9603 (573, 681)	Sa_bin.176_k141_654410-flag_0-multi_8.9745-len_13923 (13502, 13922)		35
+Sa_bin.177	523	Sa_bin.177				17
+Sa_bin.18	502	Sa_bin.18				27
+Sa_bin.180	271	Sa_bin.180				32
+Sa_bin.182	339	Sa_bin.182				42
+Sa_bin.183	93	Sa_bin.183				41
+Sa_bin.184	299	Sa_bin.184				75
+Sa_bin.186	72	Sa_bin.186				47
+Sa_bin.187	851	Sa_bin.187				18
+Sa_bin.188	244	Sa_bin.188	Sa_bin.188_k141_869606-flag_0-multi_11.0000-len_2963 (2726, 2827)			47
+Sa_bin.189	208	Sa_bin.189	Sa_bin.189_k141_482962-flag_0-multi_14.2544-len_17362 (17119, 17212)			40
+Sa_bin.190	118	Sa_bin.190	Sa_bin.190_k141_129863-flag_0-multi_14.9217-len_16231 (496, 599)			50
+Sa_bin.191	316	Sa_bin.191				46
+Sa_bin.192	59	Sa_bin.192				40
+Sa_bin.193	227	Sa_bin.193				31
+Sa_bin.194	98	Sa_bin.194				59
+Sa_bin.196	360	Sa_bin.196				21
+Sa_bin.199	247	Sa_bin.199				44
+Sa_bin.200	327	Sa_bin.200	Sa_bin.200_k141_1289720-flag_0-multi_9.0000-len_2174 (1849, 1960)	Sa_bin.200_k141_1057870-flag_0-multi_7.9278-len_26211 (25675, 26209)		27
+Sa_bin.201	81	Sa_bin.201	Sa_bin.201_k141_404578-flag_1-multi_10.0000-len_52295 (51933, 52043)	Sa_bin.201_k141_404578-flag_1-multi_10.0000-len_52295 (46909, 48465)	Sa_bin.201_k141_404578-flag_1-multi_10.0000-len_52295 (48913, 51855)	42
+Sa_bin.203	50	Sa_bin.203				42
+Sa_bin.208	543	Sa_bin.208				51
+Sa_bin.209	543	Sa_bin.209				36
+Sa_bin.210	132	Sa_bin.210				38
+Sa_bin.211	179	Sa_bin.211	Sa_bin.211_k141_1032864-flag_0-multi_17.5640-len_14222 (14101, 14211)			45
+Sa_bin.214	309	Sa_bin.214	2 present			38
+Sa_bin.215	189	Sa_bin.215				49
+Sa_bin.221	646	Sa_bin.221	Sa_bin.221_k141_295967-flag_0-multi_22.2953-len_2742 (445, 553)	Sa_bin.221_k141_48168-flag_0-multi_23.6582-len_5568 (5137, 5567)		37
+Sa_bin.23	515	Sa_bin.23				35
+Sa_bin.24	118	Sa_bin.24	Sa_bin.24_k141_388923-flag_1-multi_15.6351-len_29795 (43, 140)			45
+Sa_bin.25	608	Sa_bin.25				17
+Sa_bin.28	231	Sa_bin.28	5 present			45
+Sa_bin.29	562	Sa_bin.29	3 present			55
+Sa_bin.3	133	Sa_bin.3	2 present			61
+Sa_bin.30	98	Sa_bin.30	Sa_bin.30_k141_659130-flag_0-multi_20.0380-len_112592 (999, 1107)		Sa_bin.30_k141_659130-flag_0-multi_20.0380-len_112592 (1, 944)	53
+Sa_bin.31	519	Sa_bin.31	Sa_bin.31_k141_567544-flag_0-multi_8.4700-len_5067 (5001, 5065)			34
+Sa_bin.32	499	Sa_bin.32	2 present			23
+Sa_bin.34	631	Sa_bin.34				28
+Sa_bin.35	496	Sa_bin.35	2 present			23
+Sa_bin.36	341	Sa_bin.36	2 present			18
+Sa_bin.37	732	Sa_bin.37				37
+Sa_bin.38	760	Sa_bin.38				28
+Sa_bin.39	71	Sa_bin.39				48
+Sa_bin.42	124	Sa_bin.42				43
+Sa_bin.43	121	Sa_bin.43	2 present	Sa_bin.43_k141_37679-flag_0-multi_30.7229-len_61659 (60951, 61658)		53
+Sa_bin.44	156	Sa_bin.44	Sa_bin.44_k141_744380-flag_0-multi_6.9547-len_3052 (473, 582)			37
+Sa_bin.45	234	Sa_bin.45				48
+Sa_bin.49	137	Sa_bin.49			Sa_bin.49_k141_117677-flag_0-multi_36.9217-len_37405 (36385, 37404)	56
+Sa_bin.51	145	Sa_bin.51				37
+Sa_bin.55	37	Sa_bin.55				43
+Sa_bin.57	582	Sa_bin.57	Sa_bin.57_k141_804472-flag_1-multi_7.0000-len_2555 (3, 91)			16
+Sa_bin.62	700	Sa_bin.62				33
+Sa_bin.63	534	Sa_bin.63	Sa_bin.63_k141_1273869-flag_0-multi_7.3868-len_4353 (373, 483)			27
+Sa_bin.66	400	Sa_bin.66	Sa_bin.66_k141_209028-flag_1-multi_9.3723-len_7460 (471, 541)	Sa_bin.66_k141_289710-flag_0-multi_9.7902-len_18659 (2, 428)		35
+Sa_bin.68	292	Sa_bin.68				30
+Sa_bin.70	168	Sa_bin.70	3 present	Sa_bin.70_k141_1063862-flag_0-multi_28.6992-len_8166 (7742, 8165)		34
+Sa_bin.75	428	Sa_bin.75				34
+Sa_bin.77	79	Sa_bin.77				40
+Sa_bin.78	651	Sa_bin.78				44
+Sa_bin.8	172	Sa_bin.8	Sa_bin.8_k141_386403-flag_0-multi_11.8896-len_4526 (4324, 4431)	Sa_bin.8_k141_182415-flag_0-multi_15.7522-len_35627 (2, 1220)		39
+Sa_bin.80	210	Sa_bin.80	Sa_bin.80_k141_1186549-flag_0-multi_106.9019-len_16699 (517, 627)			41
+Sa_bin.81	188	Sa_bin.81				42
+Sa_bin.88	515	Sa_bin.88				57
+Sa_bin.89	868	Sa_bin.89				36
+Sa_bin.90	626	Sa_bin.90	3 present			37
+Sa_bin.92	251	Sa_bin.92				43
+Sa_bin.93	304	Sa_bin.93	4 present			34
+Sa_bin.94	235	Sa_bin.94				33
+Sa_bin.95	239	Sa_bin.95		Sa_bin.95_k141_172599-flag_0-multi_91.2103-len_47306 (46872, 47305)		46
+Sa_bin.99	572	Sa_bin.99				8
+Sb_bin.1	481	Sb_bin.1				37
+Sb_bin.10	228	Sb_bin.10				49
+Sb_bin.101	282	Sb_bin.101	3 present			60
+Sb_bin.103	647	Sb_bin.103				34
+Sb_bin.104	136	Sb_bin.104		Sb_bin.104_k141_1317733-flag_0-multi_18.9266-len_43087 (42610, 43085)		42
+Sb_bin.105	89	Sb_bin.105	2 present			54
+Sb_bin.107	242	Sb_bin.107	Sb_bin.107_k141_1107699-flag_0-multi_12.7814-len_11020 (10937, 11019)			45
+Sb_bin.108	69	Sb_bin.108		Sb_bin.108_k141_1348731-flag_0-multi_9.7342-len_35194 (138, 1666)		28
+Sb_bin.109	100	Sb_bin.109	3 present			71
+Sb_bin.110	207	Sb_bin.110				58
+Sb_bin.112	167	Sb_bin.112				40
+Sb_bin.114	100	Sb_bin.114				52
+Sb_bin.115	438	Sb_bin.115		Sb_bin.115_k141_546774-flag_1-multi_17.0948-len_27001 (26466, 27001)		56
+Sb_bin.118	452	Sb_bin.118	Sb_bin.118_k141_1230464-flag_0-multi_46.4140-len_23614 (14, 116)			60
+Sb_bin.12	505	Sb_bin.12				27
+Sb_bin.123	454	Sb_bin.123				32
+Sb_bin.124	618	Sb_bin.124				21
+Sb_bin.126	109	Sb_bin.126	3 present			55
+Sb_bin.127	133	Sb_bin.127	3 present			50
+Sb_bin.13	430	Sb_bin.13				33
+Sb_bin.130	74	Sb_bin.130	Sb_bin.130_k141_127899-flag_0-multi_40.5235-len_36335 (505, 615)			35
+Sb_bin.131	226	Sb_bin.131				44
+Sb_bin.133	640	Sb_bin.133				26
+Sb_bin.136	985	Sb_bin.136				56
+Sb_bin.137	525	Sb_bin.137	Sb_bin.137_k141_598339-flag_0-multi_7.2757-len_3402 (593, 702)			45
+Sb_bin.138	626	Sb_bin.138				22
+Sb_bin.14	84	Sb_bin.14	2 present			49
+Sb_bin.140	356	Sb_bin.140				52
+Sb_bin.144	719	Sb_bin.144				32
+Sb_bin.145	392	Sb_bin.145	4 present			46
+Sb_bin.146	752	Sb_bin.146	Sb_bin.146_k141_910823-flag_0-multi_7.1724-len_2676 (2581, 2671)			19
+Sb_bin.147	565	Sb_bin.147	3 present			46
+Sb_bin.148	83	Sb_bin.148		Sb_bin.148_k141_841605-flag_0-multi_13.9384-len_22833 (21880, 22825)		36
+Sb_bin.149	442	Sb_bin.149		Sb_bin.149_k141_650760-flag_0-multi_16.8331-len_84175 (83717, 84174)		43
+Sb_bin.15	113	Sb_bin.15	3 present			48
+Sb_bin.150	120	Sb_bin.150				46
+Sb_bin.151	352	Sb_bin.151				56
+Sb_bin.153	63	Sb_bin.153				33
+Sb_bin.154	204	Sb_bin.154				48
+Sb_bin.156	663	Sb_bin.156	2 present	Sb_bin.156_k141_454593-flag_0-multi_7.9226-len_2646 (1, 416)		26
+Sb_bin.158	313	Sb_bin.158	4 present			38
+Sb_bin.159	83	Sb_bin.159				39
+Sb_bin.16	589	Sb_bin.16				26
+Sb_bin.161	94	Sb_bin.161				33
+Sb_bin.162	104	Sb_bin.162	Sb_bin.162_k141_1236748-flag_1-multi_33.8367-len_7238 (348, 456)			43
+Sb_bin.163	255	Sb_bin.163	Sb_bin.163_k141_44089-flag_0-multi_17.4457-len_8299 (8203, 8293)			26
+Sb_bin.164	183	Sb_bin.164	Sb_bin.164_k141_346400-flag_1-multi_12.9323-len_25673 (34, 129)			51
+Sb_bin.17	463	Sb_bin.17		Sb_bin.17_k141_822140-flag_0-multi_6.6759-len_7454 (6996, 7453)		45
+Sb_bin.170	943	Sb_bin.170	4 present			36
+Sb_bin.18	198	Sb_bin.18	Sb_bin.18_k141_494724-flag_0-multi_33.1951-len_33101 (9, 119)			37
+Sb_bin.23	77	Sb_bin.23	Sb_bin.23_k141_1348743-flag_0-multi_14.4017-len_31404 (3122, 3220)		Sb_bin.23_k141_1348743-flag_0-multi_14.4017-len_31404 (152, 3022)	43
+Sb_bin.25	168	Sb_bin.25	Sb_bin.25_k141_635052-flag_0-multi_35.6824-len_12319 (11877, 11981)			71
+Sb_bin.27	221	Sb_bin.27				62
+Sb_bin.29	611	Sb_bin.29				24
+Sb_bin.3	491	Sb_bin.3	3 present			40
+Sb_bin.30	135	Sb_bin.30	4 present			52
+Sb_bin.31	271	Sb_bin.31				46
+Sb_bin.32	106	Sb_bin.32				58
+Sb_bin.33	59	Sb_bin.33	2 present		Sb_bin.33_k141_478058-flag_1-multi_17.4898-len_40728 (1, 2523)	47
+Sb_bin.34	231	Sb_bin.34	Sb_bin.34_k141_651011-flag_1-multi_11.2477-len_4138 (3384, 3493)			47
+Sb_bin.35	104	Sb_bin.35				50
+Sb_bin.37	357	Sb_bin.37		Sb_bin.37_k141_177655-flag_0-multi_6.9449-len_6238 (5784, 6235)		34
+Sb_bin.38	337	Sb_bin.38	Sb_bin.38_k141_339837-flag_0-multi_9.4064-len_4750 (263, 373)			25
+Sb_bin.39	286	Sb_bin.39	2 present	2 present		43
+Sb_bin.40	102	Sb_bin.40				42
+Sb_bin.41	341	Sb_bin.41				35
+Sb_bin.45	292	Sb_bin.45				31
+Sb_bin.46	659	Sb_bin.46	Sb_bin.46_k141_739464-flag_0-multi_9.7594-len_2356 (2279, 2356)			34
+Sb_bin.48	323	Sb_bin.48			Sb_bin.48_k141_569157-flag_1-multi_19.2823-len_17142 (16185, 17142)	39
+Sb_bin.52	669	Sb_bin.52	6 present			56
+Sb_bin.54	437	Sb_bin.54		Sb_bin.54_k141_384456-flag_0-multi_11.9288-len_11678 (4, 453)		38
+Sb_bin.57	89	Sb_bin.57				41
+Sb_bin.58	175	Sb_bin.58	Sb_bin.58_k141_112386-flag_1-multi_12.8618-len_22973 (257, 359)			43
+Sb_bin.59	483	Sb_bin.59				27
+Sb_bin.6	555	Sb_bin.6	Sb_bin.6_k141_121438-flag_0-multi_18.8063-len_4229 (4088, 4195)	2 present		41
+Sb_bin.62	498	Sb_bin.62				13
+Sb_bin.63	369	Sb_bin.63	2 present		Sb_bin.63_k141_1109250-flag_0-multi_5.6392-len_3553 (1, 1026)	30
+Sb_bin.66	184	Sb_bin.66	3 present			52
+Sb_bin.7	89	Sb_bin.7	2 present			39
+Sb_bin.70	955	Sb_bin.70				20
+Sb_bin.71	150	Sb_bin.71		Sb_bin.71_k141_769040-flag_0-multi_16.2324-len_28544 (28108, 28543)	Sb_bin.71_k141_1231346-flag_0-multi_16.3581-len_20861 (1, 1937)	34
+Sb_bin.74	294	Sb_bin.74				46
+Sb_bin.76	353	Sb_bin.76				38
+Sb_bin.77	503	Sb_bin.77	2 present			39
+Sb_bin.78	351	Sb_bin.78	Sb_bin.78_k141_992183-flag_1-multi_10.4557-len_5322 (4550, 4659)			31
+Sb_bin.79	603	Sb_bin.79				33
+Sb_bin.80	75	Sb_bin.80	Sb_bin.80_k141_1306294-flag_0-multi_9.9965-len_33961 (30604, 30713)	Sb_bin.80_k141_1122244-flag_1-multi_12.0000-len_87970 (81998, 83504)	Sb_bin.80_k141_1306294-flag_0-multi_9.9965-len_33961 (30944, 33857)	44
+Sb_bin.82	370	Sb_bin.82	Sb_bin.82_k141_782947-flag_0-multi_4.3867-len_8122 (7920, 8028)			17
+Sb_bin.83	357	Sb_bin.83				33
+Sb_bin.85	491	Sb_bin.85	Sb_bin.85_k141_993136-flag_0-multi_9.7040-len_7529 (423, 534)			36
+Sb_bin.86	665	Sb_bin.86	4 present			41
+Sb_bin.89	556	Sb_bin.89			Sb_bin.89_k141_1161417-flag_0-multi_131.5240-len_1664 (710, 1660)	42
+Sb_bin.93	498	Sb_bin.93				28
+Sb_bin.94	614	Sb_bin.94				27
+Sb_bin.95	100	Sb_bin.95			Sb_bin.95_k141_863568-flag_0-multi_15.1172-len_27000 (1, 2161)	42
+Sb_bin.99	73	Sb_bin.99	Sb_bin.99_k141_1315820-flag_0-multi_42.6207-len_4531 (365, 473)			40
+Sg_bin.1	354	Sg_bin.1				49
+Sg_bin.100	309	Sg_bin.100		Sg_bin.100_k141_438581-flag_0-multi_14.8531-len_5003 (4604, 5002)		43
+Sg_bin.101	850	Sg_bin.101				30
+Sg_bin.102	331	Sg_bin.102	2 present			47
+Sg_bin.103	627	Sg_bin.103				49
+Sg_bin.104	303	Sg_bin.104	2 present			41
+Sg_bin.105	486	Sg_bin.105				36
+Sg_bin.106	5	Sg_bin.106	Sg_bin.106_k141_1546225-flag_0-multi_165.9901-len_731490 (249060, 249156)	Sg_bin.106_k141_1546225-flag_0-multi_165.9901-len_731490 (252455, 254004)	Sg_bin.106_k141_1546225-flag_0-multi_165.9901-len_731490 (249291, 252221)	38
+Sg_bin.107	357	Sg_bin.107				44
+Sg_bin.108	156	Sg_bin.108				33
+Sg_bin.109	365	Sg_bin.109	3 present			54
+Sg_bin.11	776	Sg_bin.11				23
+Sg_bin.111	179	Sg_bin.111	2 present			63
+Sg_bin.112	448	Sg_bin.112	2 present			37
+Sg_bin.113	86	Sg_bin.113				33
+Sg_bin.114	302	Sg_bin.114	2 present	Sg_bin.114_k141_710244-flag_0-multi_11.2369-len_13768 (1, 924)		21
+Sg_bin.115	76	Sg_bin.115				24
+Sg_bin.117	426	Sg_bin.117	Sg_bin.117_k141_1027326-flag_1-multi_7.9698-len_1732 (34, 139)			32
+Sg_bin.118	487	Sg_bin.118				27
+Sg_bin.119	251	Sg_bin.119	3 present			56
+Sg_bin.120	622	Sg_bin.120				27
+Sg_bin.121	437	Sg_bin.121	Sg_bin.121_k141_922097-flag_1-multi_8.4188-len_8420 (29, 137)			30
+Sg_bin.122	95	Sg_bin.122	2 present			43
+Sg_bin.124	308	Sg_bin.124	2 present			43
+Sg_bin.126	468	Sg_bin.126	4 present			50
+Sg_bin.128	369	Sg_bin.128				59
+Sg_bin.13	58	Sg_bin.13		Sg_bin.13_k141_101194-flag_0-multi_106.6336-len_50127 (305, 1812)		41
+Sg_bin.130	28	Sg_bin.130		Sg_bin.130_k141_1642487-flag_0-multi_41.7228-len_21108 (20513, 21108)	Sg_bin.130_k141_562636-flag_0-multi_34.1437-len_57967 (55938, 57966)	41
+Sg_bin.132	694	Sg_bin.132				16
+Sg_bin.133	354	Sg_bin.133				14
+Sg_bin.135	139	Sg_bin.135			Sg_bin.135_k141_319206-flag_0-multi_12.8722-len_9414 (7392, 9414)	34
+Sg_bin.136	139	Sg_bin.136				40
+Sg_bin.137	498	Sg_bin.137	2 present	Sg_bin.137_k141_1620116-flag_0-multi_10.6067-len_24996 (2, 994)		34
+Sg_bin.138	459	Sg_bin.138				21
+Sg_bin.139	138	Sg_bin.139				44
+Sg_bin.14	279	Sg_bin.14				44
+Sg_bin.140	430	Sg_bin.140				39
+Sg_bin.141	489	Sg_bin.141				33
+Sg_bin.142	522	Sg_bin.142	3 present			47
+Sg_bin.143	528	Sg_bin.143				36
+Sg_bin.144	33	Sg_bin.144	Sg_bin.144_k141_435294-flag_0-multi_17.9894-len_40117 (39506, 39582)	Sg_bin.144_k141_1296322-flag_0-multi_18.4804-len_45315 (44870, 45314)		33
+Sg_bin.145	539	Sg_bin.145	2 present			28
+Sg_bin.146	848	Sg_bin.146	Sg_bin.146_k141_9965-flag_0-multi_7.6692-len_5373 (82, 187)			36
+Sg_bin.148	200	Sg_bin.148				46
+Sg_bin.15	142	Sg_bin.15				42
+Sg_bin.152	181	Sg_bin.152				24
+Sg_bin.153	393	Sg_bin.153	2 present			37
+Sg_bin.154	452	Sg_bin.154	Sg_bin.154_k141_1504863-flag_0-multi_7.7241-len_2171 (83, 191)			37
+Sg_bin.155	589	Sg_bin.155		Sg_bin.155_k141_1450552-flag_0-multi_5.7137-len_1552 (1119, 1551)		36
+Sg_bin.157	389	Sg_bin.157				38
+Sg_bin.158	305	Sg_bin.158				46
+Sg_bin.159	565	Sg_bin.159				39
+Sg_bin.16	82	Sg_bin.16				43
+Sg_bin.160	39	Sg_bin.160			Sg_bin.160_k141_850894-flag_0-multi_26.4600-len_46746 (44920, 46746)	43
+Sg_bin.161	138	Sg_bin.161	Sg_bin.161_k141_1365271-flag_0-multi_28.7661-len_10846 (10204, 10308)			52
+Sg_bin.162	774	Sg_bin.162				11
+Sg_bin.163	145	Sg_bin.163	6 present	Sg_bin.163_k141_10385-flag_0-multi_120.7196-len_29263 (27705, 29242)		75
+Sg_bin.164	564	Sg_bin.164	Sg_bin.164_k141_830957-flag_1-multi_6.0000-len_6021 (2900, 3010)			29
+Sg_bin.165	399	Sg_bin.165	Sg_bin.165_k141_1093610-flag_0-multi_8.9780-len_8131 (284, 390)			38
+Sg_bin.166	776	Sg_bin.166	Sg_bin.166_k141_1675789-flag_0-multi_5.9671-len_3481 (3380, 3453)			21
+Sg_bin.167	759	Sg_bin.167	Sg_bin.167_k141_91585-flag_1-multi_7.0000-len_3440 (3215, 3310)			30
+Sg_bin.171	94	Sg_bin.171				37
+Sg_bin.172	209	Sg_bin.172	Sg_bin.172_k141_1180731-flag_1-multi_61.0712-len_39038 (38953, 39030)			49
+Sg_bin.173	145	Sg_bin.173	2 present			61
+Sg_bin.174	76	Sg_bin.174				41
+Sg_bin.175	106	Sg_bin.175				50
+Sg_bin.176	120	Sg_bin.176				52
+Sg_bin.178	87	Sg_bin.178		Sg_bin.178_k141_1509570-flag_0-multi_16.1477-len_46045 (45649, 46045)		48
+Sg_bin.179	656	Sg_bin.179	Sg_bin.179_k141_801370-flag_0-multi_3.9196-len_4097 (3979, 4084)			44
+Sg_bin.18	405	Sg_bin.18	Sg_bin.18_k141_1097075-flag_0-multi_15.6911-len_7630 (375, 482)			22
+Sg_bin.180	116	Sg_bin.180				43
+Sg_bin.181	437	Sg_bin.181				45
+Sg_bin.182	546	Sg_bin.182				35
+Sg_bin.183	548	Sg_bin.183				51
+Sg_bin.185	219	Sg_bin.185	4 present			62
+Sg_bin.186	666	Sg_bin.186	Sg_bin.186_k141_403143-flag_0-multi_8.9631-len_4915 (4845, 4914)			24
+Sg_bin.187	306	Sg_bin.187				17
+Sg_bin.188	490	Sg_bin.188				45
+Sg_bin.189	46	Sg_bin.189	2 present			34
+Sg_bin.19	513	Sg_bin.19				24
+Sg_bin.190	92	Sg_bin.190	6 present			64
+Sg_bin.191	142	Sg_bin.191	4 present			57
+Sg_bin.193	182	Sg_bin.193				46
+Sg_bin.196	909	Sg_bin.196				30
+Sg_bin.197	700	Sg_bin.197				44
+Sg_bin.199	505	Sg_bin.199	Sg_bin.199_k141_87180-flag_0-multi_11.4591-len_9698 (113, 217)			49
+Sg_bin.2	551	Sg_bin.2				27
+Sg_bin.20	141	Sg_bin.20				44
+Sg_bin.200	472	Sg_bin.200				36
+Sg_bin.202	781	Sg_bin.202				28
+Sg_bin.203	207	Sg_bin.203	Sg_bin.203_k141_904751-flag_0-multi_10.9842-len_14050 (13535, 13640)			46
+Sg_bin.204	557	Sg_bin.204				36
+Sg_bin.205	511	Sg_bin.205				33
+Sg_bin.206	847	Sg_bin.206		2 present		19
+Sg_bin.207	440	Sg_bin.207	Sg_bin.207_k141_509599-flag_0-multi_6.8601-len_2500 (2167, 2277)			33
+Sg_bin.21	93	Sg_bin.21				47
+Sg_bin.22	126	Sg_bin.22			Sg_bin.22_k141_625735-flag_0-multi_22.1916-len_30311 (4, 2014)	24
+Sg_bin.23	454	Sg_bin.23	Sg_bin.23_k141_272398-flag_0-multi_5.5505-len_2797 (2671, 2782)			37
+Sg_bin.25	330	Sg_bin.25				30
+Sg_bin.27	285	Sg_bin.27		Sg_bin.27_k141_694691-flag_1-multi_17.4139-len_6091 (1, 432)		41
+Sg_bin.28	164	Sg_bin.28	2 present			57
+Sg_bin.29	116	Sg_bin.29				48
+Sg_bin.3	817	Sg_bin.3	Sg_bin.3_k141_1404347-flag_1-multi_61.7017-len_1703 (1167, 1266)			22
+Sg_bin.31	123	Sg_bin.31		Sg_bin.31_k141_992385-flag_0-multi_18.5540-len_23060 (2, 587)		51
+Sg_bin.32	92	Sg_bin.32		Sg_bin.32_k141_1145943-flag_1-multi_16.2230-len_75619 (359, 1879)		46
+Sg_bin.34	356	Sg_bin.34	2 present			32
+Sg_bin.35	352	Sg_bin.35	2 present	Sg_bin.35_k141_1578138-flag_0-multi_29.6115-len_12299 (2, 995)		39
+Sg_bin.36	186	Sg_bin.36	4 present	Sg_bin.36_k141_1015856-flag_0-multi_14.0000-len_61804 (4029, 5490)	Sg_bin.36_k141_1015856-flag_0-multi_14.0000-len_61804 (555, 3444)	52
+Sg_bin.37	149	Sg_bin.37	3 present	Sg_bin.37_k141_227299-flag_0-multi_6.2258-len_3113 (1, 875)		43
+Sg_bin.38	911	Sg_bin.38				22
+Sg_bin.40	113	Sg_bin.40				48
+Sg_bin.41	471	Sg_bin.41				42
+Sg_bin.42	166	Sg_bin.42				54
+Sg_bin.44	507	Sg_bin.44	2 present			44
+Sg_bin.46	330	Sg_bin.46				33
+Sg_bin.48	246	Sg_bin.48				40
+Sg_bin.50	130	Sg_bin.50	2 present			50
+Sg_bin.52	728	Sg_bin.52				25
+Sg_bin.54	567	Sg_bin.54				36
+Sg_bin.55	525	Sg_bin.55		Sg_bin.55_k141_773552-flag_0-multi_5.4592-len_3649 (3222, 3648)		57
+Sg_bin.57	64	Sg_bin.57				37
+Sg_bin.6	828	Sg_bin.6				27
+Sg_bin.60	359	Sg_bin.60	2 present			43
+Sg_bin.63	419	Sg_bin.63				16
+Sg_bin.65	170	Sg_bin.65				52
+Sg_bin.66	593	Sg_bin.66				52
+Sg_bin.67	277	Sg_bin.67				43
+Sg_bin.69	525	Sg_bin.69	Sg_bin.69_k141_1557541-flag_1-multi_8.0000-len_3900 (3578, 3677)			12
+Sg_bin.70	802	Sg_bin.70				38
+Sg_bin.73	258	Sg_bin.73	2 present			41
+Sg_bin.74	576	Sg_bin.74				39
+Sg_bin.75	416	Sg_bin.75				36
+Sg_bin.76	184	Sg_bin.76				50
+Sg_bin.77	265	Sg_bin.77	2 present	Sg_bin.77_k141_146199-flag_0-multi_7.2268-len_4308 (1019, 2536)		29
+Sg_bin.78	262	Sg_bin.78				41
+Sg_bin.79	73	Sg_bin.79	2 present	2 present		45
+Sg_bin.80	146	Sg_bin.80				56
+Sg_bin.81	510	Sg_bin.81				27
+Sg_bin.83	252	Sg_bin.83				31
+Sg_bin.84	264	Sg_bin.84	2 present	Sg_bin.84_k141_771507-flag_0-multi_14.5708-len_18070 (15075, 16608)	Sg_bin.84_k141_771507-flag_0-multi_14.5708-len_18070 (16962, 18070)	36
+Sg_bin.85	417	Sg_bin.85	3 present			38
+Sg_bin.87	556	Sg_bin.87				28
+Sg_bin.88	822	Sg_bin.88				20
+Sg_bin.89	247	Sg_bin.89				32
+Sg_bin.9	431	Sg_bin.9				36
+Sg_bin.91	62	Sg_bin.91				47
+Sg_bin.92	237	Sg_bin.92	3 present	Sg_bin.92_k141_347636-flag_1-multi_18.9980-len_3156 (2750, 3156)		43
+Sg_bin.94	173	Sg_bin.94	Sg_bin.94_k141_1599956-flag_0-multi_11.9826-len_14044 (13950, 14042)			45
+Sg_bin.95	74	Sg_bin.95	7 present	2 present		67
+Sg_bin.96	76	Sg_bin.96	2 present			34
+Sg_bin.97	247	Sg_bin.97	2 present			59
+Ss_bin.102	233	Ss_bin.102				49
+Ss_bin.106	413	Ss_bin.106	Ss_bin.106_k141_304795-flag_0-multi_7.9912-len_17910 (63, 161)			35
+Ss_bin.108	430	Ss_bin.108	Ss_bin.108_k141_340765-flag_1-multi_7.7378-len_16892 (635, 744)		Ss_bin.108_k141_976280-flag_1-multi_7.7085-len_7129 (5809, 7123)	21
+Ss_bin.109	583	Ss_bin.109	Ss_bin.109_k141_465401-flag_1-multi_4.9888-len_1925 (1498, 1597)			10
+Ss_bin.11	658	Ss_bin.11	Ss_bin.11_k141_587769-flag_1-multi_7.9864-len_5438 (5318, 5428)			25
+Ss_bin.110	411	Ss_bin.110	Ss_bin.110_k141_351629-flag_0-multi_11.6693-len_5929 (5641, 5751)			44
+Ss_bin.112	484	Ss_bin.112	3 present			45
+Ss_bin.113	422	Ss_bin.113				30
+Ss_bin.115	209	Ss_bin.115	Ss_bin.115_k141_916224-flag_0-multi_23.9888-len_45177 (44765, 44870)			54
+Ss_bin.116	172	Ss_bin.116				36
+Ss_bin.118	144	Ss_bin.118		Ss_bin.118_k141_1046316-flag_1-multi_12.9909-len_59230 (3, 638)		38
+Ss_bin.119	442	Ss_bin.119				24
+Ss_bin.12	229	Ss_bin.12	4 present			51
+Ss_bin.121	304	Ss_bin.121				38
+Ss_bin.125	226	Ss_bin.125	Ss_bin.125_k141_1046968-flag_1-multi_9.7226-len_8252 (576, 678)			46
+Ss_bin.127	153	Ss_bin.127		Ss_bin.127_k141_125112-flag_0-multi_51.9449-len_53814 (53352, 53811)		37
+Ss_bin.128	329	Ss_bin.128	Ss_bin.128_k141_480903-flag_1-multi_13.0000-len_7016 (2689, 2791)	Ss_bin.128_k141_480903-flag_1-multi_13.0000-len_7016 (6067, 7016)	Ss_bin.128_k141_480903-flag_1-multi_13.0000-len_7016 (2956, 5844)	21
+Ss_bin.133	247	Ss_bin.133				41
+Ss_bin.134	223	Ss_bin.134				29
+Ss_bin.137	245	Ss_bin.137	5 present			66
+Ss_bin.138	296	Ss_bin.138	Ss_bin.138_k141_1121695-flag_0-multi_12.0000-len_5192 (30, 138)			19
+Ss_bin.14	604	Ss_bin.14				39
+Ss_bin.140	138	Ss_bin.140	4 present	Ss_bin.140_k141_71399-flag_0-multi_20.4658-len_76164 (4, 987)		50
+Ss_bin.141	242	Ss_bin.141				46
+Ss_bin.143	499	Ss_bin.143				56
+Ss_bin.146	348	Ss_bin.146	Ss_bin.146_k141_269795-flag_0-multi_8.9666-len_5412 (4948, 5057)			35
+Ss_bin.149	490	Ss_bin.149		Ss_bin.149_k141_510254-flag_0-multi_8.9911-len_19873 (1, 417)		22
+Ss_bin.15	464	Ss_bin.15				12
+Ss_bin.151	109	Ss_bin.151	Ss_bin.151_k141_906659-flag_0-multi_43.9899-len_93577 (93478, 93576)	Ss_bin.151_k141_563208-flag_0-multi_51.8627-len_69078 (1, 755)		49
+Ss_bin.153	137	Ss_bin.153	Ss_bin.153_k141_703397-flag_0-multi_8.9358-len_17953 (17498, 17607)			35
+Ss_bin.154	246	Ss_bin.154	Ss_bin.154_k141_52502-flag_1-multi_13.8250-len_25229 (24723, 24835)			46
+Ss_bin.156	678	Ss_bin.156				46
+Ss_bin.157	62	Ss_bin.157				56
+Ss_bin.159	77	Ss_bin.159				55
+Ss_bin.162	136	Ss_bin.162	2 present	Ss_bin.162_k141_222190-flag_0-multi_11.0000-len_17798 (1, 1194)	Ss_bin.162_k141_1140151-flag_0-multi_20.6811-len_57555 (75, 2976)	44
+Ss_bin.163	586	Ss_bin.163				24
+Ss_bin.164	342	Ss_bin.164	4 present			43
+Ss_bin.165	146	Ss_bin.165	5 present			61
+Ss_bin.167	341	Ss_bin.167				33
+Ss_bin.168	164	Ss_bin.168	3 present			49
+Ss_bin.169	338	Ss_bin.169	2 present			40
+Ss_bin.17	75	Ss_bin.17				38
+Ss_bin.170	94	Ss_bin.170	Ss_bin.170_k141_232112-flag_1-multi_43.3014-len_21605 (4366, 4434)	Ss_bin.170_k141_232112-flag_1-multi_43.3014-len_21605 (8367, 9875)	Ss_bin.170_k141_232112-flag_1-multi_43.3014-len_21605 (4679, 7677)	46
+Ss_bin.175	525	Ss_bin.175		Ss_bin.175_k141_1015156-flag_1-multi_7.9956-len_11329 (1, 424)		19
+Ss_bin.18	240	Ss_bin.18	Ss_bin.18_k141_851705-flag_0-multi_44.7151-len_14028 (13928, 14026)			38
+Ss_bin.2	268	Ss_bin.2	Ss_bin.2_k141_620866-flag_0-multi_16.7775-len_11934 (11775, 11882)			26
+Ss_bin.21	41	Ss_bin.21				50
+Ss_bin.23	458	Ss_bin.23				35
+Ss_bin.28	380	Ss_bin.28				41
+Ss_bin.29	58	Ss_bin.29				43
+Ss_bin.3	214	Ss_bin.3	2 present			65
+Ss_bin.32	153	Ss_bin.32				58
+Ss_bin.33	546	Ss_bin.33	Ss_bin.33_k141_911807-flag_1-multi_4.3683-len_4208 (10, 108)			17
+Ss_bin.36	138	Ss_bin.36	Ss_bin.36_k141_522367-flag_0-multi_11.9863-len_17860 (17187, 17297)			38
+Ss_bin.40	480	Ss_bin.40		Ss_bin.40_k141_394172-flag_0-multi_6.6841-len_10302 (9864, 10298)		16
+Ss_bin.43	161	Ss_bin.43				35
+Ss_bin.44	432	Ss_bin.44			Ss_bin.44_k141_591483-flag_0-multi_7.4904-len_2531 (2, 2015)	34
+Ss_bin.49	316	Ss_bin.49	Ss_bin.49_k141_816384-flag_0-multi_11.9794-len_11880 (11434, 11542)			37
+Ss_bin.5	255	Ss_bin.5	Ss_bin.5_k141_1013094-flag_0-multi_9.9827-len_8442 (8314, 8423)			38
+Ss_bin.51	731	Ss_bin.51				19
+Ss_bin.56	209	Ss_bin.56	Ss_bin.56_k141_340736-flag_0-multi_14.6871-len_20132 (736, 844)			25
+Ss_bin.61	522	Ss_bin.61				19
+Ss_bin.67	707	Ss_bin.67				23
+Ss_bin.70	210	Ss_bin.70	2 present			43
+Ss_bin.72	270	Ss_bin.72	Ss_bin.72_k141_1215398-flag_1-multi_13.9883-len_25780 (25647, 25757)			53
+Ss_bin.73	357	Ss_bin.73				46
+Ss_bin.75	629	Ss_bin.75	3 present			37
+Ss_bin.79	208	Ss_bin.79				46
+Ss_bin.80	54	Ss_bin.80	Ss_bin.80_k141_1147273-flag_0-multi_23.7631-len_44351 (16480, 16589)			45
+Ss_bin.84	141	Ss_bin.84	Ss_bin.84_k141_714593-flag_0-multi_27.9603-len_25285 (10, 118)			42
+Ss_bin.85	397	Ss_bin.85	2 present			46
+Ss_bin.86	165	Ss_bin.86				35
+Ss_bin.87	315	Ss_bin.87	2 present			56
+Ss_bin.88	122	Ss_bin.88				38
+Ss_bin.89	885	Ss_bin.89				46
+Ss_bin.9	136	Ss_bin.9	2 present			44
+Ss_bin.90	391	Ss_bin.90	2 present			29
+Ss_bin.91	278	Ss_bin.91	4 present			73
+Ss_bin.92	201	Ss_bin.92	2 present			47
+Ss_bin.95	312	Ss_bin.95	Ss_bin.95_k141_686869-flag_0-multi_9.9686-len_6451 (5846, 5952)			36
+Ss_bin.96	203	Ss_bin.96				34
+Ss_bin.97	363	Ss_bin.97				57
+Ss_bin.98	49	Ss_bin.98		Ss_bin.98_k141_989232-flag_0-multi_24.7405-len_31862 (30872, 31858)		48
