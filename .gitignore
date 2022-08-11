@@ -1,4 +1,8 @@
 .Rproj.user
+data/mag_data/Complete_genomes/
+data/mag_data/DRAM_annotate/
+code/misc/
+completeness_function.Rproj
 .Rhistory
 .RData
 .Ruserdata

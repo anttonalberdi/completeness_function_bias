@@ -1,0 +1,115 @@
+genome	number of scaffolds	taxonomy	5S rRNA	16S rRNA	23S rRNA	tRNA count
+bin_s10.cct36	693	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter johnsonii				20
+bin_s13.cct32	195	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter sp003024515	3 present			55
+bin_s13.cct72	495	d__Bacteria;p__Firmicutes;c__Bacilli;o__Staphylococcales;f__Salinicoccaceae;g__Jeotgalicoccus;s__Jeotgalicoccus nanhaiensis	bin_s13.cct72_s13_039040 (1931, 2040)	bin_s13.cct72_s13_029514 (2, 789)		17
+bin_s13.mtb14	243	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium;s__	8 present			50
+bin_s13.mtb41_sub	383	d__Bacteria;p__Firmicutes;c__Bacilli;o__Staphylococcales;f__Staphylococcaceae;g__Staphylococcus_A;s__Staphylococcus_A sciuri				13
+bin_s13.mtb55	402	d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Micrococcaceae;g__Paeniglutamicibacter;s__				44
+bin_s13.mxb16	32	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Neisseriaceae;g__;s__	2 present			57
+bin_s13.mxb21_sub	345	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Aeromonadaceae;g__Aeromonas;s__	2 present	4 present	4 present	13
+bin_s13.vmb19	16	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Cardiobacteriales;f__Wohlfahrtiimonadaceae;g__Wohlfahrtiimonas;s__	3 present			53
+bin_s13.vmb53	11	d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales_A;f__Planococcaceae;g__Metalysinibacillus;s__Metalysinibacillus saudimassiliensis	3 present			23
+bin_s14.cct55_sub	752	d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Brevibacteriaceae;g__Brevibacterium;s__				18
+bin_s14.cct6	145	d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Micrococcaceae;g__Rothia;s__Rothia sp004136585				50
+bin_s14.cct67_sub	458	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Citrobacter;s__Citrobacter braakii	6 present			82
+bin_s14.mtb11	32	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Enterococcaceae;g__Enterococcus;s__Enterococcus faecalis	bin_s14.mtb11_s14_003756 (27, 136)			31
+bin_s14.mtb51	36	d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__Campylobacterales;f__Helicobacteraceae;g__NHYN01;s__				33
+bin_s14.mtb52	43	d__Bacteria;p__Spirochaetota;c__Brevinematia;o__Brevinematales;f__Brevinemataceae;g__Brevinema;s__		bin_s14.mtb52_s14_002591 (110818, 112341)	2 present	37
+bin_s14.mxb11	178	d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Mycobacteriales;f__Mycobacteriaceae;g__Dietzia;s__Dietzia timorensis	2 present	bin_s14.mxb11_s14_007727 (6840, 8352)	bin_s14.mxb11_s14_009383 (7711, 10607)	55
+bin_s14.mxb14_sub	149	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Providencia;s__Providencia rettgeri_A	3 present			72
+bin_s14.mxb25_sub	612	d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Propionibacteriales;f__Propionibacteriaceae;g__Granulicoccus;s__				46
+bin_s14.mxb34_sub	588	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Cellulosilyticaceae;g__;s__				41
+bin_s14.vmb0	83	d__Bacteria;p__Firmicutes;c__Bacilli;o__Mycoplasmatales;f__Metamycoplasmataceae;g__UBA710;s__	bin_s14.vmb0_s14_024188 (19300, 19372)	bin_s14.vmb0_s14_039474 (7, 831)		27
+bin_s18.mtb24_sub	444	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium_P;s__Clostridium_P perfringens	6 present			76
+bin_s18.mtb29	217	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Cellulosilyticaceae;g__;s__				50
+bin_s18.mtb8_sub	170	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium;s__Clostridium sp000753455	5 present			62
+bin_s18.mxb12_sub	85	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__;s__	5 present	bin_s18.mxb12_sub_s18_004550 (1, 888)		52
+bin_s18.mxb2	53	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Proteus;s__Proteus mirabilis_B	6 present		2 present	69
+bin_s19.cct18_sub	30	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium_P;s__Clostridium_P perfringens	5 present			64
+bin_s19.mtb13	873	d__Bacteria;p__Firmicutes;c__Bacilli;o__Haloplasmatales_A;f__Turicibacteraceae;g__Turicibacter;s__	bin_s19.mtb13_s19_022817 (2255, 2365)			20
+bin_s19.mtb52	309	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Alcaligenes;s__Alcaligenes faecalis	bin_s19.mtb52_s19_007099 (16297, 16403)	bin_s19.mtb52_s19_007099 (20107, 21028)	bin_s19.mtb52_s19_007099 (16588, 19469)	49
+bin_s19.vmb15	126	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium;s__Clostridium sartagoforme_B	5 present			61
+bin_s19.vmb3	8	d__Bacteria;p__Chlamydiota;c__Chlamydiia;o__Chlamydiales;f__Chlamydiaceae;g__;s__	bin_s19.vmb3_s19_017795 (4465, 4574)	2 present	2 present	38
+bin_s2.cct8_sub	1204	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__	bin_s2.cct8_sub_s2_010122 (15, 125)			43
+bin_s2.mtb4	94	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Vagococcaceae;g__Vagococcus;s__Vagococcus martis	bin_s2.mtb4_s2_008059 (75665, 75775)			20
+bin_s2.mxb1	324	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli	bin_s2.mxb1_s2_005016 (181, 291)		bin_s2.mxb1_s2_000457 (1, 1858)	50
+bin_s2.mxb45_sub	354	d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Microbacteriaceae;g__Leucobacter;s__				12
+bin_s21.cct14_sub	40	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Morganella;s__Morganella morganii	4 present	bin_s21.cct14_sub_s21_003154 (141914, 142318)		71
+bin_s21.cct28	341	d__Bacteria;p__Firmicutes;c__Bacilli;o__Staphylococcales;f__Gemellaceae;g__Gemella;s__				6
+bin_s21.cct40	564	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli_D	2 present			47
+bin_s21.cct50_sub	1550	d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Brevibacteriaceae;g__Brevibacterium;s__	bin_s21.cct50_sub_s21_011756 (9844, 9955)			72
+bin_s21.cct65_sub	178	d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales_A;f__Planococcaceae;g__Sporosarcina;s__	3 present	bin_s21.cct65_sub_s21_007460 (47722, 48145)		22
+bin_s21.mtb27_sub	94	d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Mycobacteriales;f__Mycobacteriaceae;g__Corynebacterium;s__Corynebacterium casei	4 present			50
+bin_s21.mtb58	717	d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Dermatophilaceae;g__Janibacter;s__				24
+bin_s21.mtb63	105	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Neisseriaceae;g__Neisseria;s__	bin_s21.mtb63_s21_025483 (5481, 5588)	bin_s21.mtb63_s21_025483 (262, 1797)	bin_s21.mtb63_s21_025483 (2444, 5327)	47
+bin_s21.mxb1	51	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Romboutsia_A;s__	9 present	2 present	4 present	26
+bin_s21.mxb14	30	d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales_A;f__Planococcaceae;g__Sporosarcina;s__	4 present			34
+bin_s21.mxb20_sub	474	d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Mycobacteriales;f__Mycobacteriaceae;g__Dietzia;s__	bin_s21.mxb20_sub_s21_028118 (268, 377)			48
+bin_s21.mxb8	50	d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Mycobacteriales;f__Mycobacteriaceae;g__Corynebacterium;s__	2 present	5 present	6 present	64
+bin_s22.cct46	155	d__Bacteria;p__Spirochaetota;c__Leptospirae;o__Leptospirales;f__Leptospiraceae;g__Leptospira;s__Leptospira kirschneri	bin_s22.cct46_s22_017410 (76244, 76354)	bin_s22.cct46_s22_016297 (2362, 3866)		36
+bin_s23.cct16	639	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Aeromonadaceae;g__Aeromonas;s__Aeromonas rivipollensis	4 present			90
+bin_s23.cct35	97	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Vagococcaceae;g__Vagococcus;s__	bin_s23.cct35_s23_001611 (227, 337)	bin_s23.cct35_s23_023559 (30181, 30611)		28
+bin_s23.cct40	96	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium;s__Clostridium sp900547475	7 present			68
+bin_s23.cct42	102	d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__Campylobacterales;f__Helicobacteraceae;g__Helicobacter_A;s__				34
+bin_s23.cct8	98	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Cellulosilyticaceae;g__;s__	bin_s23.cct8_s23_006356 (151, 260)	bin_s23.cct8_s23_003072 (119198, 119875)	bin_s23.cct8_s23_005310 (3, 1463)	74
+bin_s23.vmb19	10	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Enterococcaceae;g__Enterococcus_I;s__Enterococcus_I alcedinis	3 present	bin_s23.vmb19_s23_001410 (3336, 4891)	bin_s23.vmb19_s23_001410 (166, 3052)	34
+bin_s23.vmb39	64	d__Bacteria;p__Firmicutes;c__Bacilli;o__Haloplasmatales_A;f__Turicibacteraceae;g__Turicibacter;s__				47
+bin_s24.cct14	340	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__WRBN01;f__WRBN01;g__;s__	bin_s24.cct14_s24_020615 (1580, 1684)	bin_s24.cct14_s24_000192 (1, 1431)	bin_s24.cct14_s24_020615 (1768, 2721)	37
+bin_s24.cct31	1459	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli_D	bin_s24.cct31_s24_001945 (18, 128)	bin_s24.cct31_s24_007123 (6615, 8118)		67
+bin_s24.mtb2_sub	1830	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Terrisporobacter;s__	10 present			42
+bin_s24.vmb3	148	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Vagococcaceae;g__Vagococcus;s__Vagococcus fluvialis	bin_s24.vmb3_s24_016057 (11554, 11665)			19
+bin_s27.mtb27	368	d__Bacteria;p__Firmicutes;c__Bacilli;o__Staphylococcales;f__Salinicoccaceae;g__Jeotgalicoccus;s__Jeotgalicoccus halotolerans	bin_s27.mtb27_s27_005009 (431, 540)			42
+bin_s27.mtb32	93	d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Mycobacteriales;f__Mycobacteriaceae;g__Corynebacterium;s__	3 present		bin_s27.mtb32_s27_008395 (72814, 74036)	53
+bin_s27.mtb39	40	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Pasteurellaceae;g__Frederiksenia;s__	3 present			42
+bin_s27.mxb11_sub	55	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Cellulosilyticaceae;g__Niameybacter;s__Niameybacter sp900549765	3 present	bin_s27.mxb11_sub_s27_018372 (1019, 2553)		40
+bin_s27.vmb32	25	d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales_A;f__Planococcaceae;g__Metalysinibacillus;s__Metalysinibacillus alkalisoli	6 present	bin_s27.vmb32_s27_014991 (183538, 185055)		32
+bin_s27.vmb37	16	d__Bacteria;p__Firmicutes;c__Bacilli;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Erysipelothrix;s__	3 present	bin_s27.vmb37_s27_008426 (3245, 4780)	2 present	43
+bin_s27.vmb3_sub	214	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Cardiobacteriales;f__Cardiobacteriaceae;g__;s__				40
+bin_s28.cct16	134	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_C;s__	3 present			38
+bin_s28.cct47	20	d__Bacteria;p__Firmicutes;c__Bacilli;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Erysipelothrix;s__Erysipelothrix sp011301115	2 present		bin_s28.cct47_s28_030071 (96688, 98567)	47
+bin_s28.cct48	194	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Myroides;s__Myroides guanonis	2 present			42
+bin_s28.cct63_sub	1048	d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Brevibacteriaceae;g__Brevibacterium;s__				26
+bin_s28.mtb8	13	d__Bacteria;p__Desulfobacterota;c__Desulfovibrionia;o__Desulfovibrionales;f__Desulfovibrionaceae;g__;s__		bin_s28.mtb8_s28_031384 (283264, 284803)	bin_s28.mtb8_s28_053270 (19006, 21079)	35
+bin_s28.mxb31	42	d__Bacteria;p__Firmicutes;c__Bacilli;o__Mycoplasmatales;f__Mycoplasmoidaceae;g__Ureaplasma;s__	3 present			41
+bin_s28.mxb37_sub	618	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Providencia;s__	2 present	3 present	9 present	31
+bin_s28.vmb45	166	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium_J;s__	bin_s28.vmb45_s28_030167 (203, 301)			51
+bin_s28.vmb7	74	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium;s__	3 present			48
+bin_s3.mtb7	52	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Aerococcaceae;g__;s__	bin_s3.mtb7_s3_031732 (26347, 26456)			40
+bin_s31.cct37_sub	730	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter johnsonii		bin_s31.cct37_sub_s31_016536 (2675, 3569)		52
+bin_s31.cct6_sub	711	d__Bacteria;p__Firmicutes;c__Bacilli;o__Staphylococcales;f__Staphylococcaceae;g__Staphylococcus_A;s__Staphylococcus_A sciuri	4 present			11
+bin_s31.mxb16_sub	107	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Myroides;s__Myroides marinus				15
+bin_s31.vmb7	104	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Cellulosilyticaceae;g__Niameybacter;s__	bin_s31.vmb7_s31_020465 (333, 428)		bin_s31.vmb7_s31_013119 (38494, 40638)	79
+bin_s34.cct25	36	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Providencia;s__Providencia alcalifaciens	bin_s34.cct25_s34_017274 (4084, 4193)		bin_s34.cct25_s34_017274 (4317, 5644)	78
+bin_s34.cct27	22	d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__WRBN01;f__WRBN01;g__;s__	2 present			46
+bin_s34.cct32	482	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus;s__Lactococcus petauri	2 present			18
+bin_s34.cct50	110	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales_A;f__Rhizobiaceae_A;g__Pseudochrobactrum;s__Pseudochrobactrum saccharolyticum				52
+bin_s34.cct52	173	d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales_A;f__Planococcaceae;g__Kurthia;s__Kurthia gibsonii	4 present			18
+bin_s34.mtb22_sub	11	d__Bacteria;p__Firmicutes;c__Bacilli;o__Mycoplasmatales;f__Mycoplasmoidaceae;g__Mycoplasma_L;s__	bin_s34.mtb22_sub_s34_012290 (24952, 25025)	bin_s34.mtb22_sub_s34_012290 (20241, 21746)	bin_s34.mtb22_sub_s34_012290 (21986, 24877)	29
+bin_s34.mxb8	30	d__Bacteria;p__Firmicutes;c__Bacilli;o__Mycoplasmatales;f__Mycoplasmoidaceae;g__Malacoplasma;s__	bin_s34.mxb8_s34_007160 (4150, 4219)	bin_s34.mxb8_s34_007160 (7380, 8888)	2 present	28
+bin_s35.cct57_sub	71	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Romboutsia;s__	4 present	bin_s35.cct57_sub_s35_013538 (5341, 5800)		10
+bin_s35.cct60	921	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli_D	8 present			88
+bin_s35.mxb6_sub	317	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Romboutsia;s__	10 present			29
+bin_s36.mtb18	46	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus;s__Lactococcus garvieae	3 present	bin_s36.mtb18_s36_009401 (2, 618)		40
+bin_s36.mtb42	325	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium;s__Clostridium sartagoforme_B	6 present			46
+bin_s36.mxb13	35	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Morganella;s__Morganella morganii	4 present	3 present	bin_s36.mxb13_s36_011026 (2722, 5604)	71
+bin_s36.vmb0	44	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Myroides;s__Myroides odoratimimus	2 present			78
+bin_s4.cct16_sub	159	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Providencia;s__Providencia rustigianii	2 present			63
+bin_s4.cct33	25	d__Bacteria;p__Firmicutes;c__Bacilli;o__Mycoplasmatales;f__Mycoplasmoidaceae;g__Ureaplasma;s__				30
+bin_s4.mtb50	238	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Cellulosilyticaceae;g__Cellulosilyticum;s__	bin_s4.mtb50_s4_010495 (1758, 1857)			48
+bin_s4.vmb27	166	d__Bacteria;p__Firmicutes;c__Bacilli;o__Haloplasmatales_A;f__Turicibacteraceae;g__Turicibacter;s__				24
+bin_s4.vmb43	28	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Cellulosilyticaceae;g__;s__	bin_s4.vmb43_s4_012292 (2528, 2636)			49
+bin_s5.cct0_sub	596	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Citrobacter;s__Citrobacter portucalensis	6 present	bin_s5.cct0_sub_s5_001667 (1, 402)		73
+bin_s5.cct41_sub	231	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter rudis	4 present			63
+bin_s5.cct46	668	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Cardiobacteriales;f__Wohlfahrtiimonadaceae;g__Ignatzschineria;s__				29
+bin_s5.cct63	151	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium;s__Clostridium butyricum	5 present			52
+bin_s5.cct76	75	d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales_A;f__Planococcaceae;g__Kurthia;s__Kurthia zopfii	6 present			48
+bin_s5.mtb7	155	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus;s__Lactococcus lactis	3 present		bin_s5.mtb7_s5_010292 (32763, 35656)	45
+bin_s6.cct39	342	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Neisseriaceae;g__;s__	bin_s6.cct39_s6_042815 (569, 675)			52
+bin_s6.mtb27	633	d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Brevibacteriaceae;g__Brevibacterium;s__				21
+bin_s6.mtb31_sub	782	d__Archaea;p__Asgardarchaeota;c__Heimdallarchaeia;o__;f__;g__;s__	4 present	bin_s6.mtb31_sub_s6_031534 (5733, 7216)	bin_s6.mtb31_sub_s6_031534 (2459, 4738)	47
+bin_s6.mtb47	336	d__Bacteria;p__Firmicutes;c__Bacilli;o__Staphylococcales;f__Staphylococcaceae;g__Staphylococcus_A;s__Staphylococcus_A lentus	2 present			25
+bin_s6.mtb55	44	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Cellulosilyticaceae;g__Niameybacter;s__	6 present	bin_s6.mtb55_s6_029729 (28655, 30212)		90
+bin_s6.mtb9	37	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Providencia;s__Providencia rettgeri_D	3 present			63
+bin_s6.mxb12	73	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Morganella;s__Morganella morganii_A	4 present	2 present	2 present	70
+bin_s6.vmb19	72	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Cardiobacteriales;f__Wohlfahrtiimonadaceae;g__Wohlfahrtiimonas;s__	3 present	bin_s6.vmb19_s6_004457 (43105, 44637)	bin_s6.vmb19_s6_004457 (45239, 48144)	49
+bin_s6.vmb27	32	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium;s__Clostridium tertium	6 present			37
