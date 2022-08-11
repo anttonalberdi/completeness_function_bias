@@ -10,39 +10,37 @@ library(ggtext)
 library(patchwork)
 
 ##########################################################################################
-## Import data
-apodemus <- read_delim("data/MAG_info/final_bins_Info_Apodemus.csv") %>%
+## Import MAG info
+apodemus <- read_delim("data/mag_data/MAG_info/final_bins_Info_Apodemus.csv") %>%
   filter(completeness > 70 & contamination < 10) %>%
   mutate(source = "Apodemus")
-crocidura <- read_delim("data/MAG_info/final_bins_Info_Crocidura.csv") %>%
+crocidura <- read_delim("data/mag_data/MAG_info/final_bins_Info_Crocidura.csv") %>%
   filter(completeness > 70 & contamination < 10) %>%
   mutate(source = "Crocidura")
-felis <- read_delim("data/MAG_info/final_bins_Info_Felis.csv") %>%
+felis <- read_delim("data/mag_data/MAG_info/final_bins_Info_Felis.csv") %>%
   filter(completeness > 70 & contamination < 10)  %>%
   mutate(source = "Felis")
-gallus <- read_delim("data/MAG_info/final_bins_Info_Gallus.csv") %>%
+gallus <- read_delim("data/mag_data/MAG_info/final_bins_Info_Gallus.csv") %>%
   filter(completeness > 70 & contamination < 10)  %>%
   mutate(source = "Gallus")
-mus <- read_delim("data/MAG_info/final_bins_Info_Mus.csv") %>%
+mus <- read_delim("data/mag_data/MAG_info/final_bins_Info_Mus.csv") %>%
   filter(completeness > 70 & contamination < 10)  %>%
   mutate(source = "Mus")
 
+#Combine into one dataframe
 df_genomeinfo <- rbind(apodemus, crocidura, felis, gallus, mus)
 
+#Import DRAM product files
+apodemus_dram <- read_delim("data/mag_data/DRAM/Hacked/product_Apodemus.tsv.gz")
+crocidura_dram <- read_delim("data/mag_data/DRAM/Hacked/product_Crocidura.tsv.gz")
+felis_dram <- read_delim("data/mag_data/DRAM/Hacked/product_Felis.tsv.gz")
+gallus_dram <- read_delim("data/mag_data/DRAM/Hacked/product_Gallus.tsv.gz")
+mus_dram <- read_delim("data/mag_data/DRAM/Hacked/product_Mus.tsv.gz")
 
-apodemus_dram <- read_delim("data/DRAM/Hacked/product_Apodemus.tsv.gz")
-
-crocidura_dram <- read_delim("data/DRAM/Hacked/product_Crocidura.tsv.gz")
-
-felis_dram <- read_delim("data/DRAM/Hacked/product_Felis.tsv.gz")
-
-gallus_dram <- read_delim("data/DRAM/Hacked/product_Gallus.tsv.gz")
-
-mus_dram <- read_delim("data/DRAM/Hacked/product_Mus.tsv.gz")
-
+#Combine into one DF
 df_dram <- rbind(apodemus_dram, crocidura_dram, felis_dram, gallus_dram, mus_dram)
 
-
+#Merge genome info and DRAM info
 df_joined <- left_join(df_genomeinfo, df_dram, by = "genome") %>%
   mutate(mean_module_fullness = rowMeans(select(., -genome, -completeness, -contamination, -source) * 100))
 
@@ -73,4 +71,4 @@ df_joined %>%
        ) +
   labs(x = "Completeness (%)", y = "Mean module fullness (%)")
 
-ggsave("Figure1B.pdf", width = 10, height = 6)
+ggsave("figures/Figure1B.pdf", width = 10, height = 6)

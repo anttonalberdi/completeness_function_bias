@@ -1,6 +1,5 @@
-#
-#
-#
+### Completeness & contamination plot -- colour by species
+### Raphael Eisenhofer May 2022
 
 ##########################################################################################
 ## Load packages
@@ -11,20 +10,20 @@ library(ggtext)
 library(patchwork)
 
 ##########################################################################################
-## Import data
-apodemus <- read_delim("data/MAG_info/final_bins_Info_Apodemus.csv") %>%
+## Import data, remove MAGs < 70% completeness & > 10 % contamination
+apodemus <- read_delim("data/mag_data/MAG_info/final_bins_Info_Apodemus.csv") %>%
   filter(completeness > 70 & contamination < 10) %>%
   mutate(source = "apodemus")
-crocidura <- read_delim("data/MAG_info/final_bins_Info_Crocidura.csv") %>%
+crocidura <- read_delim("data/mag_data/MAG_info/final_bins_Info_Crocidura.csv") %>%
   filter(completeness > 70 & contamination < 10) %>%
   mutate(source = "crocidura")
-felis <- read_delim("data/MAG_info/final_bins_Info_Felis.csv") %>%
+felis <- read_delim("data/mag_data/MAG_info/final_bins_Info_Felis.csv") %>%
   filter(completeness > 70 & contamination < 10)  %>%
   mutate(source = "felis")
-gallus <- read_delim("data/MAG_info/final_bins_Info_Gallus.csv") %>%
+gallus <- read_delim("data/mag_data/MAG_info/final_bins_Info_Gallus.csv") %>%
   filter(completeness > 70 & contamination < 10)  %>%
   mutate(source = "gallus")
-mus <- read_delim("data/MAG_info/final_bins_Info_Mus.csv") %>%
+mus <- read_delim("data/mag_data/MAG_info/final_bins_Info_Mus.csv") %>%
   filter(completeness > 70 & contamination < 10)  %>%
   mutate(source = "mus")
 
@@ -37,14 +36,14 @@ df <- rbind(apodemus, crocidura, felis, gallus, mus)
 theme_RE <- theme(
   legend.position = "",
   panel.grid.major.x = element_blank(),
-  axis.text = element_text(face = "bold", size = 14, family = "Aharoni"),
+  axis.text = element_text(face = "bold", size = 14),
   axis.text.x = element_text(angle = 45),
-  axis.title = element_text(face = "bold", size = 16, family = "Aharoni")
+  axis.title = element_text(face = "bold", size = 16)
 )
 
 
 #Fig XA
-figXA <- ggplot(df, aes(x = source, y = completeness, colour = source)) +
+figS1A <- ggplot(df, aes(x = source, y = completeness, colour = source)) +
   stat_halfeye(
     adjust = .5,
     width = .6, 
@@ -65,7 +64,7 @@ figXA <- ggplot(df, aes(x = source, y = completeness, colour = source)) +
 
 
 #Fig XB
-figXB <- ggplot(df, aes(x = source, y = contamination, colour = source)) +
+figS1B <- ggplot(df, aes(x = source, y = contamination, colour = source)) +
   stat_halfeye(
     adjust = .5,
     width = .6, 
@@ -86,8 +85,8 @@ figXB <- ggplot(df, aes(x = source, y = contamination, colour = source)) +
 
 
 #Stich together
-figXA | figXB 
+figS1A | figS1B 
 
 #Save
-ggsave("FigureX.png", width = 10, height = 8)
+ggsave("figures/FigureS1.pdf", width = 10, height = 8)
 
