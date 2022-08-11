@@ -13,19 +13,19 @@ library(patchwork)
 ## Import data, remove MAGs < 70% completeness & > 10 % contamination
 apodemus <- read_delim("data/mag_data/MAG_info/final_bins_Info_Apodemus.csv") %>%
   filter(completeness > 70 & contamination < 10) %>%
-  mutate(source = "apodemus")
+  mutate(source = "Apodemus")
 crocidura <- read_delim("data/mag_data/MAG_info/final_bins_Info_Crocidura.csv") %>%
   filter(completeness > 70 & contamination < 10) %>%
-  mutate(source = "crocidura")
+  mutate(source = "Crocidura")
 felis <- read_delim("data/mag_data/MAG_info/final_bins_Info_Felis.csv") %>%
   filter(completeness > 70 & contamination < 10)  %>%
-  mutate(source = "felis")
+  mutate(source = "Felis")
 gallus <- read_delim("data/mag_data/MAG_info/final_bins_Info_Gallus.csv") %>%
   filter(completeness > 70 & contamination < 10)  %>%
-  mutate(source = "gallus")
+  mutate(source = "Gallus")
 mus <- read_delim("data/mag_data/MAG_info/final_bins_Info_Mus.csv") %>%
   filter(completeness > 70 & contamination < 10)  %>%
-  mutate(source = "mus")
+  mutate(source = "Mus")
 
 df <- rbind(apodemus, crocidura, felis, gallus, mus)
 
@@ -41,8 +41,11 @@ theme_RE <- theme(
   axis.title = element_text(face = "bold", size = 16)
 )
 
+#Define colour palette
+colours <- c("Apodemus" = "#DACC69", "Crocidura" = "#E5685C", "Felis" = "#F08D49",
+             "Gallus" = "#7BCCC2", "Mus" = "#869AB2")
 
-#Fig XA
+#Fig S1A
 figS1A <- ggplot(df, aes(x = source, y = completeness, colour = source)) +
   stat_halfeye(
     adjust = .5,
@@ -57,13 +60,14 @@ figS1A <- ggplot(df, aes(x = source, y = completeness, colour = source)) +
     alpha = 0.4,
     position = position_jitter(seed = 1, width = .1)
   ) +
+  scale_colour_manual(values = colours) +
   theme_minimal() +
   theme_RE +
   scale_y_continuous(breaks = seq(70, 100, by = 5)) +
   labs(y = "CheckM completeness", x = "")
 
 
-#Fig XB
+#Fig S1B
 figS1B <- ggplot(df, aes(x = source, y = contamination, colour = source)) +
   stat_halfeye(
     adjust = .5,
@@ -78,6 +82,7 @@ figS1B <- ggplot(df, aes(x = source, y = contamination, colour = source)) +
     alpha = 0.4,
     position = position_jitter(seed = 1, width = .1)
   ) +
+  scale_colour_manual(values = colours) +
   theme_minimal() +
   theme_RE +
   scale_y_continuous(breaks = seq(0, 10, by = 2)) +
