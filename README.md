@@ -1,4 +1,4 @@
-## Repository for the manuscript: "Impact of microbial genome completeness on functional metagenomics"
+### "Impact of microbial genome completeness on functional metagenomics"
 
 Link to preprint (when available)
 
