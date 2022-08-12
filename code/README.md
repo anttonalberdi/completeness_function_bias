@@ -1,4 +1,4 @@
-### Reproduction of statistical analyses:
+## Reproduction of statistical analyses:
 
 Raphael Eisenhofer, Iñaki Odriozola and Antton Alberdi
 
