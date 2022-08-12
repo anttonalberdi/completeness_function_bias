@@ -1,2 +1,7 @@
-# completeness_function
-Effect of completeness on the functional characterisation of MAGs
+## Repository for the manuscript: "Impact of microbial genome completeness on functional metagenomics"
+
+Link to preprint (when available)
+
+- The instructions and code needed for reproducing the analyses are available in the ['code'](https://github.com/anttonalberdi/completeness_function_bias/code/) folder.
+
+- The data needed for reproducing the analyses are available in the ['data'](https://github.com/anttonalberdi/completeness_function_bias/data/) folder.
