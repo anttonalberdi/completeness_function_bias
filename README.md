@@ -2,7 +2,7 @@
 
 Raphael Eisenhofer, Iñaki Odriozola and Antton Alberdi
 
-Link to preprint (when available)
+[Link to preprint](https://www.researchsquare.com/article/rs-1955526/v1)
 
 - The instructions and code needed for reproducing the analyses are available in the ['code'](https://github.com/anttonalberdi/completeness_function_bias/tree/main/code) folder.
 
