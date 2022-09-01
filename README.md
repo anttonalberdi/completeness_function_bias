@@ -8,4 +8,4 @@ Raphael Eisenhofer, Iñaki Odriozola and Antton Alberdi
 
 - The data needed for reproducing the analyses are available in the ['data/mag_data/DRAM'](https://github.com/anttonalberdi/completeness_function_bias/tree/main/data/mag_data/DRAM) folder.
 
-- Information on genomes including accession number, taxonomy, completeness and redundancy are available in the ['data'] (https://github.com/anttonalberdi/completeness_function_bias/tree/main/data) folder.
+- Information on genomes including accession number, taxonomy, completeness and redundancy are available in the ['data'](https://github.com/anttonalberdi/completeness_function_bias/tree/main/data) folder.
