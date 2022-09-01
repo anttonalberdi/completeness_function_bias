@@ -79,6 +79,8 @@ ggplot()+
         axis.text.y = element_text(size=12),
         title = element_text(size=18))
 
+ggsave("code/Fig_2B.pdf",width = 8,height = 8)
+
 # Predictions of the slopes for different Domains with bootstrap 95% CI
 
 newdata_domain <- data.frame(Domain=unique(data_modelling$Domain),
@@ -159,6 +161,8 @@ ggplot()+
         axis.text.y = element_text(size=12),
         title = element_text(size=18))
 
+ggsave("code/Fig_2C.pdf",width = 8,height = 8)
+
 # Predicted association between the slopes and number of steps in modules with bootstrap 95% CI
 
 newdata_steps <- data.frame(Steps=seq(from=min(data_modelling$Steps),
@@ -192,3 +196,5 @@ ggplot()+
         axis.text.x = element_text(size=12,hjust=1),
         axis.text.y = element_text(size=12),
         title = element_text(size=18))
+
+ggsave("code/Fig_2D.pdf",width = 8,height = 8)

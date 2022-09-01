@@ -106,6 +106,8 @@ ggplot() +
         axis.text.y = element_text(size=12),
         title = element_text(size=18))
 
+ggsave("code/Fig_2A.pdf",width = 8,height = 8)
+
 # Diff Fullness between Completeness 70%-100% by Phylum
 Diff_100_70_Actino <- Results_table[,9]-Results_table[,6]
 Diff_100_70_Bactero <- Results_table[,13]-Results_table[,10]
