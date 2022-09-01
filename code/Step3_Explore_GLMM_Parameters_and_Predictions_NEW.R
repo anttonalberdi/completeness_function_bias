@@ -1,9 +1,5 @@
 library(tidyverse)
-library(sjPlot)
 library(ggplot2)
-library(gridExtra)
-library(grid)
-library(lemon)
 
 ## Load datasets
 ## *************
@@ -14,6 +10,8 @@ dram_product <- dram_product[,-1]
 Explanatory_dataset <- read.csv("data/explanatory_dataset.csv",header = TRUE)
 models_list <- readRDS(file="data/models_list.rds")
 Results_table <- read.csv("data/Results_table.csv")
+module_hierarchy <- read.csv("data/module_hierarchy.csv")
+n_steps <- read.csv("data/number_of_steps_in_modules.csv",header = TRUE)
 
 ## Exploratory analyses
 ## ********************
@@ -41,10 +39,10 @@ Results_table$Proteobacteria_pred_90 <- Results_table$Proteobacteria_pred_90*100
 Results_table$Proteobacteria_pred_100 <- Results_table$Proteobacteria_pred_100*100
 
 # Percentage of positive slope parameter estimates for Fullness-Completeness relationship
-mean(Results_table$Actinobacteriota_slope>0)  # 90%
-mean(Results_table$Bacteroidota_slope>0)      # 87%
-mean(Results_table$Firmicutes_slope>0)        # 89%
-mean(Results_table$Proteobacteria_slope>0)    # 88%
+mean(Results_table$Actinobacteriota_slope>0)  # 92%
+mean(Results_table$Bacteroidota_slope>0)      # 95%
+mean(Results_table$Firmicutes_slope>0)        # 94%
+mean(Results_table$Proteobacteria_slope>0)    # 93%
 
 # Computation of the predicted differences in fullness of each module between completeness
 # values of 70%, 80%, 90% and 100%, separated by Phylum.

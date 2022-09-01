@@ -21,6 +21,9 @@ data_modelling <- data.frame(Function=Function,Domain=Domain,Steps=Steps,Phylum=
 
 # Fit the model and make predictions and inferences
 # *************************************************
+domain_palette=c("#DB93A9","#E89D74","#69AD86","#E9CA80","#D7BFAF","#99796D","#2D758C","#A3DBDD","#ABA5D2","#8E8E8E")
+phylum_palette=c("#C66154","#B6DCDD","#F1DD7C","#98CC6B")
+
 
 M <- lmer(Slope~Phylum+Domain+Steps+(1|Function),data = data_modelling)
 set.seed(1)
@@ -137,6 +140,7 @@ boot_data_domain$CI_domain_labels=c("[0.039,0.054]","[0.032,0.046]","[0.037,0.07
                                     "[0.019,0.043]","[0.032,0.048]","[0.022,0.037]",
                                     "[0.017,0.057]")
 
+# Figure 2C in the main manuscript
 ggplot()+
   geom_point(data=data_modelling,mapping=aes(x=Domain,y=Slope,color=Domain),
              position = position_jitter(w = 0.2, h = 0),alpha=0.3,show.legend = FALSE)+
@@ -172,6 +176,7 @@ boot_data_steps <- data.frame(mean=apply(boot_CI_steps$t,2,mean),
                            steps=newdata_steps$Steps)
 
 
+# Figure 2D in the main manuscript
 ggplot()+
   geom_point(data=data_modelling,mapping=aes(x=Steps,y=Slope),
              alpha=0.3,show.legend = FALSE)+
