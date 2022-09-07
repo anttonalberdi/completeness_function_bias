@@ -39,10 +39,10 @@ Results_table$Proteobacteria_pred_90 <- Results_table$Proteobacteria_pred_90*100
 Results_table$Proteobacteria_pred_100 <- Results_table$Proteobacteria_pred_100*100
 
 # Percentage of positive slope parameter estimates for Fullness-Completeness relationship
-mean(Results_table$Actinobacteriota_slope>0)  # 92%
-mean(Results_table$Bacteroidota_slope>0)      # 95%
-mean(Results_table$Firmicutes_slope>0)        # 94%
-mean(Results_table$Proteobacteria_slope>0)    # 93%
+mean(Results_table$Actinobacteriota_slope>0)  # 94%
+mean(Results_table$Bacteroidota_slope>0)      # 94%
+mean(Results_table$Firmicutes_slope>0)        # 93%
+mean(Results_table$Proteobacteria_slope>0)    # 95%
 
 # Computation of the predicted differences in fullness of each module between completeness
 # values of 70%, 80%, 90% and 100%, separated by Phylum.

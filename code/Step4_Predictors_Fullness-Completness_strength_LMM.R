@@ -21,8 +21,15 @@ data_modelling <- data.frame(Function=Function,Domain=Domain,Steps=Steps,Phylum=
 
 # Fit the model and make predictions and inferences
 # *************************************************
-domain_palette=c("#DB93A9","#E89D74","#69AD86","#E9CA80","#D7BFAF","#99796D","#2D758C","#A3DBDD","#ABA5D2","#8E8E8E")
-phylum_palette=c("#C66154","#B6DCDD","#F1DD7C","#98CC6B")
+set.seed(1)
+
+domain_palette=c('Carbohydrate metabolism'="#DB93A9",'Amino acid metabolism'="#E89D74",
+                 'Biosynthesis of other secondary metabolites'="#69AD86",
+                 'Nucleotide metabolism'="#E9CA80",'Glycan metabolism'="#D7BFAF",
+                 'Lipid metabolism'="#99796D",'Biosynthesis of terpenoids and polyketides'="#2D758C",
+                 'Metabolism of cofactors and vitamins'="#A3DBDD",'Energy metabolism'="#ABA5D2",
+                 'Xenobiotics biodegradation'="#8E8E8E")
+phylum_palette=c(Actinobacteriota="#C66154",Bacteroidota="#B6DCDD",Firmicutes="#F1DD7C",Proteobacteria="#98CC6B")
 
 
 M <- lmer(Slope~Phylum+Domain+Steps+(1|Function),data = data_modelling)
@@ -58,9 +65,14 @@ boot_data_phylum <- data.frame(mean=c(mean_Actinobacteriota,mean_Bacteroidota,
                             lwr=c(lwr_Actinobacteriota,lwr_Bacteroidota,
                                   lwr_Firmicutes,lwr_Proteobacteria),
                             phylum=unique(data_modelling$Phylum))
-boot_data_phylum$CI_phylum_labels=c("[0.032,0.046]","[0.022,0.036]","[0.03,0.044]","[0.038,0.051]")
+boot_data_phylum$CI_phylum_labels=c("[0.032,0.045]","[0.02,0.033]","[0.033,0.046]","[0.035,0.048]")
+boot_data_phylum$phylum<-factor(boot_data_phylum$phylum,
+                                levels = boot_data_phylum$phylum[order(boot_data_phylum$mean)])
+data_modelling$Phylum<-factor(data_modelling$Phylum,
+                              levels = boot_data_phylum$phylum[order(boot_data_phylum$mean)])
 
 # Figure 2B in the main manuscript
+
 ggplot()+
   geom_point(data=data_modelling,mapping=aes(x=Phylum,y=Slope,color=Phylum),
              position = position_jitter(w = 0.2, h = 0),alpha=0.3,show.legend = FALSE)+
@@ -137,10 +149,14 @@ boot_data_domain <- data.frame(mean=c(mean_carbohydrate_metabolism,mean_amino_ac
                                   lwr_energy_metabolism,lwr_xenobiotics_biodegradation),
                             domain=unique(data_modelling$Domain))
 
-boot_data_domain$CI_domain_labels=c("[0.039,0.054]","[0.032,0.046]","[0.037,0.071]",
-                                    "[0.044,0.07]","[0.027,0.051]","[0.028,0.049]",
-                                    "[0.019,0.043]","[0.032,0.048]","[0.022,0.037]",
-                                    "[0.017,0.057]")
+boot_data_domain$CI_domain_labels=c("[0.037,0.05]","[0.032,0.045]","[0.03,0.06]",
+                                    "[0.04,0.068]","[0.022,0.044]","[0.024,0.044]",
+                                    "[0.021,0.041]","[0.031,0.047]","[0.02,0.034]",
+                                    "[0.019,0.056]")
+boot_data_domain$domain<-factor(boot_data_domain$domain,
+                                levels = boot_data_domain$domain[order(boot_data_domain$mean)])
+data_modelling$Domain<-factor(data_modelling$Domain,
+                              levels = boot_data_domain$domain[order(boot_data_domain$mean)])
 
 # Figure 2C in the main manuscript
 ggplot()+
@@ -186,7 +202,7 @@ ggplot()+
              alpha=0.3,show.legend = FALSE)+
   geom_line(data = boot_data_steps,mapping=aes(x=steps,y=mean),size=1,color="blue")+
   geom_ribbon(data = boot_data_steps,mapping=aes(ymin=lwr, ymax=upr,x=steps),alpha=0.3,fill="blue")+
-  geom_text(aes(x=10,y=0.2,label=as.character(expression(beta~"="~"[-0.004,-0.001]"))),parse=TRUE,color="black",size=5)+
+  geom_text(aes(x=10,y=0.2,label=as.character(expression(beta~"="~"[-0.003,-0.001]"))),parse=TRUE,color="black",size=5)+
   ggtitle("d)")+
   ylab(expression(Slope[Fullness/Completeness]))+
   xlab("Number of steps")+
