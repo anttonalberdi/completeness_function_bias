@@ -23,14 +23,13 @@ data_modelling <- data.frame(Function=Function,Domain=Domain,Steps=Steps,Phylum=
 # *************************************************
 set.seed(1)
 
-domain_palette=c('Carbohydrate metabolism'="#DB93A9",'Amino acid metabolism'="#E89D74",
+domain_palette <- c('Carbohydrate metabolism'="#DB93A9",'Amino acid metabolism'="#E89D74",
                  'Biosynthesis of other secondary metabolites'="#69AD86",
                  'Nucleotide metabolism'="#E9CA80",'Glycan metabolism'="#D7BFAF",
                  'Lipid metabolism'="#99796D",'Biosynthesis of terpenoids and polyketides'="#2D758C",
                  'Metabolism of cofactors and vitamins'="#A3DBDD",'Energy metabolism'="#ABA5D2",
                  'Xenobiotics biodegradation'="#8E8E8E")
 phylum_palette=c(Actinobacteriota="#C66154",Bacteroidota="#B6DCDD",Firmicutes="#F1DD7C",Proteobacteria="#98CC6B")
-
 
 M <- lmer(Slope~Phylum+Domain+Steps+(1|Function),data = data_modelling)
 set.seed(1)
