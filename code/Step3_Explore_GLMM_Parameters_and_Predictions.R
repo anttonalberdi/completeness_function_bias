@@ -15,8 +15,8 @@ n_steps <- read.csv("data/number_of_steps_in_modules.csv",header = TRUE)
 
 ## Exploratory analyses
 ## ********************
-domain_palette=c("#DB93A9","#E89D74","#69AD86","#E9CA80","#D7BFAF","#99796D","#2D758C","#A3DBDD","#ABA5D2","#8E8E8E")
-phylum_palette=c("#C66154","#B6DCDD","#F1DD7C","#98CC6B")
+phylum_palette=c('Actinobacteriota'="#F08E49",'Bacteroidota'="#7ACCC2",
+                 'Firmicutes'="#DACC68",'Proteobacteria'="#E6695D")
 
 # Multiply 0-1 bound data by 100 to turn into %
 Results_table <- data.frame(Results_table,Domain=module_hierarchy$Domain,
@@ -106,7 +106,7 @@ ggplot() +
         axis.text.y = element_text(size=12),
         title = element_text(size=18))
 
-ggsave("code/Fig_2A.pdf",width = 8,height = 8)
+ggsave("figures/Fig_2A.pdf",width = 8,height = 8)
 
 # Diff Fullness between Completeness 70%-100% by Phylum
 Diff_100_70_Actino <- Results_table[,9]-Results_table[,6]

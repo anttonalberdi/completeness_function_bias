@@ -29,7 +29,8 @@ domain_palette <- c('Carbohydrate metabolism'="#DB93A9",'Amino acid metabolism'=
                  'Lipid metabolism'="#99796D",'Biosynthesis of terpenoids and polyketides'="#2D758C",
                  'Metabolism of cofactors and vitamins'="#A3DBDD",'Energy metabolism'="#ABA5D2",
                  'Xenobiotics biodegradation'="#8E8E8E")
-phylum_palette=c(Actinobacteriota="#C66154",Bacteroidota="#B6DCDD",Firmicutes="#F1DD7C",Proteobacteria="#98CC6B")
+phylum_palette=c('Actinobacteriota'="#F08E49",'Bacteroidota'="#7ACCC2",
+                 'Firmicutes'="#DACC68",'Proteobacteria'="#E6695D")
 
 M <- lmer(Slope~Phylum+Domain+Steps+(1|Function),data = data_modelling)
 set.seed(1)
@@ -90,7 +91,7 @@ ggplot()+
         axis.text.y = element_text(size=12),
         title = element_text(size=18))
 
-ggsave("code/Fig_2B.pdf",width = 8,height = 8)
+ggsave("figures/Fig_2B.pdf",width = 8,height = 8)
 
 # Predictions of the slopes for different Domains with bootstrap 95% CI
 
@@ -176,7 +177,7 @@ ggplot()+
         axis.text.y = element_text(size=12),
         title = element_text(size=18))
 
-ggsave("code/Fig_2C.pdf",width = 8,height = 8)
+ggsave("figures/Fig_2C.pdf",width = 8,height = 8)
 
 # Predicted association between the slopes and number of steps in modules with bootstrap 95% CI
 
@@ -212,4 +213,4 @@ ggplot()+
         axis.text.y = element_text(size=12),
         title = element_text(size=18))
 
-ggsave("code/Fig_2D.pdf",width = 8,height = 8)
+ggsave("figures/Fig_2D.pdf",width = 8,height = 8)
