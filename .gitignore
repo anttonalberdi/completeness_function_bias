@@ -2,6 +2,7 @@
 data/mag_data/Complete_genomes/
 data/mag_data/DRAM_annotate/
 code/misc/
+code/massage_table.R
 completeness_function_bias.Rproj
 .Rhistory
 .RData
