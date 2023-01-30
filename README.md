@@ -1,6 +1,8 @@
-### Impact of microbial genome completeness on functional metagenomics
+### Impact of microbial genome completeness on metagenomic functional inference
 
 Raphael Eisenhofer, Iñaki Odriozola and Antton Alberdi
+
+[![DOI](https://zenodo.org/badge/450355925.svg)](https://zenodo.org/badge/latestdoi/450355925)
 
 [Link to preprint](https://www.researchsquare.com/article/rs-1955526/v2)
 
